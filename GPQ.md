@@ -2,13 +2,14 @@
 
 Nama | Analytical Thinking
 :----|:----
-Kode | ATH
+Kode | ANAT
 Alias |
+Tipe | Simple
 Definisi |Menggambarkan dorongan diri untuk mengenali dan mengurai masalah menjadi lebih detail termasuk mencari informasi mengenai akar masalah yang dihadapi sebagai dasar dalam melakukan pemecahan masalah.
-ATH-Low | Lebih suka melihat suatu permasalahan berdasarkan simptom awal tanpa berupaya menggali/melihat elemen permasalahan lebih lanjut
-ATH-Medium Low | Memiliki dorongan untuk mencari tahu lebih dalam duduk perkara dan pangkal permasalahan yang dihadapi
-ATH-Medium High | Tertarik untuk mencari tahu pangkal permasalahan yang terjadi agar mampu mengidentifikasi pola pembentuk permasalahan tersebut
-ATH-High | Terobsesi pada hal detail dari struktur sebuah permasalahan mulai dari simptom yang muncul sampai pada akar permasalahannya.
+Deskripsi LOW | Lebih suka melihat suatu permasalahan berdasarkan simptom awal tanpa berupaya menggali/melihat elemen permasalahan lebih lanjut
+Deskripsi MEDIUM LOW | Memiliki dorongan untuk mencari tahu lebih dalam duduk perkara dan pangkal permasalahan yang dihadapi
+Deskripsi MEDIUM HIGH | Tertarik untuk mencari tahu pangkal permasalahan yang terjadi agar mampu mengidentifikasi pola pembentuk permasalahan tersebut
+Deskripsi HIGH | Terobsesi pada hal detail dari struktur sebuah permasalahan mulai dari simptom yang muncul sampai pada akar permasalahannya.
 
 ### Conceptual Thinking
 
@@ -194,15 +195,17 @@ ADR-High | Sangat berambisi utk berprestasi dan menjadi yang terbaik, menyukai t
 
 Nama | Manage Reasoning
 :----|:----
-Kode | MRE
+Kode | MANR
 Alias |
-Definisi |Menggambarkan dorongan individu mengoptimalkan alat pikir, untuk mencari akar dan pola masalah, menyelesaikan masalah dengan cara yang sama atau berbeda dan bagaimana individu mempertimbangkan kondisi, target, dan dampak jangka panjang saat melakukan pemecahan masalah
+Tipe | Composite
+Member | 
+Definisi |Menggambarkan dorongan individu mengoptimalkan alat pikir, untuk mencari akar dan pola masalah, menyelesaikan masalah dengan cara yang sama atau berbeda dan bagaimana individu mempertimbangkan kondisi, target, dan dampak jangka panjang saat melakukan pemecahan masalah.
 
 ### Manage Task
 
 Nama | Manage Task
 :----|:----
-Kode | MTA
+Kode | MANT
 Alias |
 Definisi |Menggambarkan dorongan individu untuk mengelola tugas, yaitu bagaimana individu menyusun rencana kerja, mengorganisir sumber daya yang ada, dan melakukan kontrol terhadap aktualisasi rencana kerja.
 
@@ -210,13 +213,13 @@ Definisi |Menggambarkan dorongan individu untuk mengelola tugas, yaitu bagaimana
 
 Nama | Manage Relations
 :----|:----
-Kode | MRL
+Kode | MANE
 Alias |
 Definisi |Menggambarkan dorongan individu untuk mengelola orang lain, yaitu bagaimana individu memperhatikan emosi orang lain, ketertarikan untuk bekerja sama, ketertarikan untuk menjalin relasi dengan orang asing, ketertarikan untuk menjalin komunikasi, dan ketertarikan untuk melakukan persuasi.
 
-### Manage One-self
+### Manage Oneself
 
-Nama | Manage One-self
+Nama | Manage Oneself
 :----|:----
 Kode | MON
 Alias |
