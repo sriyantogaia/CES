@@ -2,8 +2,9 @@
 
 Nama | Problem Solving
 :----|:----
-Kode | PS-CSI
-Alias | Pemecahan Masalah
+Kode | PROS
+Alias | 
+Tipe | Simple
 Definisi | Karakter yang menggambarkan untuk fokus menghadapi permasalahan yang dihadapi secara langsung, baik itu secara kognitif ataupun perilaku; dengan cara menghilangkan pokok permasalahan yang terjadi.
 
 
@@ -11,8 +12,9 @@ Definisi | Karakter yang menggambarkan untuk fokus menghadapi permasalahan yang 
 
 Nama  | Cognitive Restructuring
 :-----|:----
-Kode  | COGRES
-Alias | Restrukturisasi Proses Berfikir
+Kode  | COGR
+Alias | 
+Tipe | Simple
 Definisi | Karakter yang menggambarkan untuk mampu menata ulang cara berfikir ketika menghadapi permasalahan, dengan cara melihat permasalahan tersebut dari sudut pandang yang positif, serta dari perspektif yang lain.
 
 
@@ -74,8 +76,10 @@ Definisi | Karakter yang menggambarkan untuk cenderung menarik diri dari lingkun
 
 Nama  | Problem Focused Engagement
 :-----|:----
-Kode  | PFE
-Alias | Keterlibatan dengan fokus terhadap permasalahan
+Kode  | PRFE
+Alias | 
+Tipe | Composite
+Member | 
 Definisi | Merupakan gabungan dari problem solving dan cognitive restructuring; dimana ketika menghadapi permasalahan cenderung fokus untuk menghadapi permasalahan tersebut, dengan cara melibatkan strategi kognitif dan perilaku untuk mengubah situasi yang ada.
 
 ### Emotion Focused Engagement
