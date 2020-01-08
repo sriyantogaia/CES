@@ -195,7 +195,7 @@ ADR-High | Sangat berambisi utk berprestasi dan menjadi yang terbaik, menyukai t
 
 Nama | Manage Reasoning
 :----|:----
-Kode | MANR
+Kode | MANRQ
 Alias |
 Tipe | Composite
 Member | 
