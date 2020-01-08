@@ -1,14 +1,13 @@
----
-
 ### Penggerak
 
 Nama | Penggerak
 :----|:----
-Kode | PM01
-Alias EN | Activator - Mobilizer
+Kode | PENG
+Alias | 
 Tipe | Simple
 Definisi | Kemauan dan kemampuan untuk memotivasi dan mengorganisir.
 Deskripsi | Berperilaku tegas, responsif, ramah, dan percaya diri, berusaha mempengaruhi orang lain melalui persuasi, gaya pribadi, ketegasan, dan antusiasme. Memotivasi dengan cara melibatkan orang-orang dalam keputusan-keputusan yang mempengaruhi mereka.
+Nama EN | Activator - Mobilizer
 
 ### Pengawas
 
