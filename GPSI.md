@@ -6,11 +6,11 @@ Nama | Trust
 :----|:----
 Kode | PS01
 Alias | 
-Nama INA | Kepercayaan
 Tipe | Simple
 Definisi | Karakter yang mengacu pada pandangan seseorang terhadap sifat orang lain
 Deskripsi Rendah | Individu yang mendapat skor rendah memandang orang lain sebagai pribadi yang egois, licik, dan berpotensi membahayakan baginya.
 Deskripsi Tinggi | Individu yang mendapat skor tinggi memiliki asumsi bahwa secara umum setiap orang memiliki sifat adil, jujur, dan niat baik.
+Nama INA | Kepercayaan
 
 ### Morality
 
