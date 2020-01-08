@@ -2,13 +2,14 @@
 
 Nama | Integritas
 :----|:----
-Kode | INT
+Kode | INTE
 Alias | 
+Tipe | Simple
 Definisi | Konsisten berperilaku selaras dengan nilai, norma dan/atau etika organisasi, dan jujur dalam hubungan dengan manajemen, rekan kerja, bawahan langsung, dan pemangku kepentingan, menciptakan budaya etika tinggi, bertanggungjawab atas tindakan atau keputusan beserta risiko yang menyertainya.
 Deskripsi Level 1 | Mampu bertindak sesuai nilai, norma, etika organisasi dalam kapasitas pribadi.
-Indikator 1.1 | Bertingkah laku sesuai dengan perkataan; berkata sesuai dengan fakta.
-Indikator 1.2 | Melaksanakan peraturan, kode etik organisasi dalam lingkungan kerja sehari-hari, pada tataran individu/pribadi.
-Indikator 1.3 | Tidak menjanjikan/memberikan sesuatu yang bertentangan dengan aturan organisasi.
+Indikator | Bertingkah laku sesuai dengan perkataan; berkata sesuai dengan fakta.
+Indikator | Melaksanakan peraturan, kode etik organisasi dalam lingkungan kerja sehari-hari, pada tataran individu/pribadi.
+Indikator | Tidak menjanjikan/memberikan sesuatu yang bertentangan dengan aturan organisasi.
 Deskripsi Level 2 | Mampu mengingatkan, mengajak rekan kerja untuk bertindak sesuai nilai, norma, dan etika organisasi.
 Indikator 2.1 | Mengingatkan rekan kerja untuk bertindak sesuai dengan nilai, norma, dan etika organisasi dalam segala situasi dan kondisi.
 Indikator 2.2 | Mengajak orang lain untuk bertindak sesuai etika dan kode etik.
@@ -250,3 +251,23 @@ Deskripsi Level 5 | Wakil pemerintah untuk membangun hubungan sosial psikologis.
 Indikator 5.1 | Menjadi wakil pemerintah yang mampu membangun hubungan sosial psikologis dengan masyarakat sehingga menciptakan kelekatan yang kuat antara ASN dan para pemangku kepentingan serta diantara para pemangku kepentingan itu sendiri.
 Indikator 5.2 | Mampu mengkomunikasikan dampak risiko yang teridentifikasi dan merekomendasikan tindakan korektif berdasarkan pertimbangan perbedaan latar belakang, agama/kepercayaan, suku, jender, sosial ekonomi, preferensi politik untuk membangun hubungan jangka panjang.
 Indikator 5.3 | Mampu membuat kebijakan yang mengakomodasi perbedaan latar belakang, agama/kepercayaan, suku, jender, sosial ekonomi, preferensi politik yang berdampak positif secara nasional.
+
+### Kompetensi Manajerial
+
+Nama  | Kompetensi Manajerial
+:-----|:----
+Kode  | KOMM
+Alias | 
+Tipe | Composite
+Member | tunggu kode
+Definisi | 
+
+### Sosio Kultural
+
+Nama  | Sosio Kultural
+:-----|:----
+Kode  | SOSK
+Alias | 
+Tipe | Composite
+Member | tunggu kode
+Definisi | 
