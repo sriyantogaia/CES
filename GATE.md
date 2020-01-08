@@ -1,4 +1,4 @@
-## Verbal Reasoning
+### Verbal Reasoning
 Nama | Verbal Reasoning
 :----|:----
 Kode | VERR
