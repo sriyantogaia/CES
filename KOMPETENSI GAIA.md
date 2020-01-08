@@ -1,6 +1,3 @@
-### 14 KOMPETENSI GENERIC GAIA
-
-
 ### Manage Reasoning
 
 Nama  | Manage Reasoning
