@@ -2,8 +2,9 @@
 
 Nama | Listing & Domain Analysis
 :----|:----
-Kode | LDAN
-Alias | Problem Identification
+Kode | LIDA
+Alias | 
+Tipe | Simple
 Definisi |Kemampuan dalam menemukenali masalah, menggunakan proses penalaran logis untuk menyelesaikan masalah dan bekerja mengatasi masalah untuk mencapai hasil
 Deskripsi Level 1 | *Item Listing*; mengenali masalah secara parsial ; belum melakukan sintesa atas masalah yang muncul; melihat masalah satu per satu tanpa melihat kesamaan pola yang muncul
 Deskripsi Level 2 | *Limited issue listing*;	memunculkan topik-topik senama secara terbatas; pengenalan domain masalah masih pada area yang sangat dikenali
