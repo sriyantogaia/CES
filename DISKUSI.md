@@ -2,11 +2,12 @@
 
 Nama | Observing
 :----|:----
-Kode | OBS
-Alias (INA) | Kemampuan mengamati proses diskusi
+Kode | OBSE
+Alias | 
+Tipe | Simple
 Definisi | Kemauan dan kemampuan memfokuskan diri pada upaya pencapaian tugas kelompok, dan kemampuan dalam mengikuti berbagai topik pembahasan serta mengikuti proses kerjasama dalam simulasi diskusi secara kontinyu.
-Deskripsi Lv. 1 WITHDRAWING  | Menarik diri, tidak mengikuti jalannya diskusi, sibuk hal lain, self centered.
-Deskripsi Lv. 2 EVENT BASED | Tidak kontinyu mengikuti jalannya diskusi, tanpa pola atau ketika situasi memanas.
+Deskripsi Level 1 | Withdrawing - Menarik diri, tidak mengikuti jalannya diskusi, sibuk hal lain, self centered.
+Deskripsi Level 2 EVENT BASED | Tidak kontinyu mengikuti jalannya diskusi, tanpa pola atau ketika situasi memanas.
 Deskripsi Lv. 3 INTEREST BASED| Tidak kontinyu mengikuti jalannya diskusi, terpola: ketika topik adalah bidang yang diminati.
 Deskripsi Lv. 4 OUTPUT BASED | Secara kontinyu mengamati jalannya diskusi.
 
@@ -63,7 +64,9 @@ Deskripsi Lv. 4 DIALOGUE | Pendekatan exploring inquiry dan consulting advocacy 
 Nama  | Willingness
 :-----|:----
 Kode  | WILL
-Alias (INA) | Kemauan untuk terlibat dalam kelompok
+Alias | 
+Tipe | Composite
+Member | 
 Definisi | kemauan untuk terlibat atau niatan untuk hadir dan berkontribusi dalam dinamika suatu kelompok.
 
 ### Ability
