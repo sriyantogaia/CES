@@ -2,7 +2,7 @@
 
 Nama  | Manage Reasoning
 :-----|:----
-Kode  | MRE
+Kode  | MANR
 Alias INA| Mengelola Pemikiran
 Definisi | Kemampuan dalam mengelola kognitif untuk menghadapi prsoalan maupun penugasan.
 Deskripsi |Gabungan dari kompetensi Analytical Thinking, Conceptual Thinking, dan Strategic Thinking.
