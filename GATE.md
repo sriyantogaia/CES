@@ -1,10 +1,9 @@
-
-### G-GATe
-
+## Verbal Reasoning
 Nama | Verbal Reasoning
 :----|:----
-Kode | VERBR
-Alias INA | Penalaran Verbal
+Kode | VERR
+Alias |
+Tipe | Simple
 Definisi | Potensi untuk memahami dan menggunakannya dalam pemecahan suatu masalah verbal.
 Deskripsi | Kemampuan nalar dalam menghadapi persoalan-persoalan yang bersifat verbal, kalimat-kalimat, informasi, ide/gagasan. Kemampuan menangkap dan memformulasikannya menjadi suatu hal yang baru.
 
