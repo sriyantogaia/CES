@@ -1,15 +1,14 @@
----
-
 ### Motivasi
 
 Nama | Motivasi
 :----|:----
-Kode | PL01
-Alias EN | Motivation
+Kode | MOTI
+Alias | 
 Tipe | Simple
 Definisi | Kecenderungan untuk menyemangati dan meyakinkan.
 Deskripsi Strength | Ramah, interaktif, demokratis, reseptif dan responsif. Ringan tangan, dan suka berbagi informasi. Inisiatif tinggi dan mengajak orang lain untuk terlibat.
 Deskripsi Weakness | Terlalu permisif dan toleran, tidak bisa mengatakan 'tidak', dan cenderung banyak omong.
+Nama EN | Motivation
 
 ### Responsif
 
