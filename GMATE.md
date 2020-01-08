@@ -2,7 +2,7 @@
 
 Nama | Find
 :----|:----
-Alias | Find
+Alias | 
 Kode | FIND
 Definisi INA| 
 Deskripsi INA| 
