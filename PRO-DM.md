@@ -1,13 +1,12 @@
----
-
 ### Penyelidikan
 
 Nama | Penyelidikan
 :----|:----
-Kode | PDM01
-Alias EN | Inquiry
+Kode | PENY
+Alias | 
 Tipe | Simple
 Definisi | Aktivitas kognitif, seperti: mencari, memeriksa, menyelidik, menganalisis, membuat definisi, dan membuat kategorisasi; yang dilakukan dalam rangka mengidentifikasi dan menganalisis kepentingan, informasi, serta cakupan masalah yang dihadapi.
+Nama EN | Inquiry
 
 ### Diagnosis
 
