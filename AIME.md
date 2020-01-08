@@ -2,8 +2,9 @@
 
 Nama | Identifikasi
 :----|:----
-Kode | IDEN-AIME
-Alias | Identifikasi Emosi
+Kode | IDEN
+Alias |  
+Tipe | Simple
 Definisi | Kemampuan dalam mengenali emosi (termasuk perubahan emosi) baik pada diri sendiri maupun orang lain, termasuk kepekaan dalam menangkap isyarat emosional; sehingga dapat menyampaikan dan mengekspresikan emosi secara akurat kepada orang lain, serta berkomunikasi secara efektif.
 
 
