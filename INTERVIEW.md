@@ -4,13 +4,14 @@ Nama | KPI Setting
 :----|:----
 Kode | KPIS
 Alias |
+Tipe | Simple
 Definisi |Kemampuan untuk menganalisa dan merespon sebuah beban kerja yang diberikan kepadanya dalam bentuk indikator kerja utama/KPI (Key Performance Indicators) yang meliputi: target pencapaian (kuantitas dan/atau kualitas); jangka waktu; biaya; tenaga; dan sumber daya lainnya dalam rangka memastikan terjadinya efisiensi dan efektifitas pencapaian tujuan kerja secara keseluruhan di organisasi.
-Deskripsi Level 1 |Natural
-Indikator 1.1 | Menyusun target kerja berdasarkan turunan langsung dari target dimiliki atasannya.
-Indikator 1.2 | Target kerja yang disusun sepenuhnya didapat dari atasan dan/atau ditetapkan oleh organisasi.
-Indikator 1.3 | Belum memiliki target kerja yang jelas dan terukur. Apa yang dikerjakan sebatas rutinitas kerja, dan atau prosedur baku.
-Indikator 1.4 | Belum memiliki target kerja yang jelas, semua berdasarkan situasi dan/atau permintaan atasan.
-Deskripsi Level 1,5 |Standard
+Deskripsi Level 1 | Natural
+Indikator | Menyusun target kerja berdasarkan turunan langsung dari target dimiliki atasannya.
+Indikator | Target kerja yang disusun sepenuhnya didapat dari atasan dan/atau ditetapkan oleh organisasi.
+Indikator | Belum memiliki target kerja yang jelas dan terukur. Apa yang dikerjakan sebatas rutinitas kerja, dan atau prosedur baku.
+Indikator | Belum memiliki target kerja yang jelas, semua berdasarkan situasi dan/atau permintaan atasan.
+Deskripsi Level 1,5 | Standard
 Indikator 1,5.1 | Menyusun target kerja sesuai kaidah normatif berdasarkan beban kerja dan kemampuan yang dimiliki.
 Indikator 1,5.2 | Menyusun target kerja dengan menurunkan target yang diterima fungsinya ke dalam sejumlah indikator secara spesifik dan terukur.
 Deskripsi Level 2 |Improved
@@ -207,8 +208,10 @@ Indikator 4.1 | Kemampuan melakukan interaksi/relasi sosial sampai pada interaks
 
 Nama | Setting
 :----|:----
-Kode | SET
+Kode | SETT
 Alias |
+Tipe | Composite
+Member | 
 Definisi | Kemampuan dalam menetapkan target dan perencanaan yang jelas dan kongkrit dalammenyikapi suatu penugasan.
 
 ### Fulfilling
