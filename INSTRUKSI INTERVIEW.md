@@ -216,7 +216,7 @@ Indikator | Kemampuan melakukan melakukan interaksi sosial sebatas individu hadi
 Deskripsi Level 2 | Natural
 Indikator |	Kemampuan melakukan interaksi/relasi sosial sebatas sebuah interaksi yang menghasilkan respon normatif dari sebuah interaksi sosial.
 Deskripsi Level 3 | Forward
-Indikator | Kemampuan melakukan interaksi/relasi sosial sampai pada sebuah interaksi yang menghasilkan respon positif terhadap peluang pengembangan interaksi dan/atau kerja sama lebih lanjut
+Indikator | Kemampuan melakukan interaksi/relasi sosial sampai pada sebuah interaksi yang menghasilkan respon positif terhadap peluang pengembangan interaksi dan/atau kerja sama lebih lanjut.
 Deskripsi Level 4 | Positive
 Indikator | Kemampuan melakukan interaksi/relasi sosial sampai pada interaksi yang menghasilkan beragam respon yang merupakan bagian dari implementasi strategi yang efektif untuk mempengaruhi, memimpin ataupun mengelola kesepakatan ataupun konflik.
 Score and Note |
