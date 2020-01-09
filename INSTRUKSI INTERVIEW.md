@@ -83,7 +83,7 @@ Indikator | Melakukan pengawasan terhadap suatu kegiatan dengan  menggunakan kai
 Deskripsi Level 3 | Preventive
 Indikator | Melakukan pengawasan terhadap suatu kegiatan dengan  menggunakan kaidah ***Plan,Do, Check, Action*** secara konsisten dan menyeluruh, serta melakukan pengembangan terhadap pengendalian untuk mengantisipasi isu/permasalahan yang telah dihadapi sebelumnya.
 Deskripsi Level 4 | Early Warning System
-Indikator | Melakukan kegiatan pengawasan setara level Preventive,  serta mengembangkan sistim peringatan dini (**EWS**- *early warning system*): supaya isu yang sama mampu dideteksi sedini mungkin.
+Indikator | Melakukan kegiatan pengawasan setara level *Preventive*,  serta mengembangkan sistim peringatan dini (**EWS**- *early warning system*): supaya isu yang sama mampu dideteksi sedini mungkin.
 Score and Note |
 
 ### Gap Analysis
