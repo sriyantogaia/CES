@@ -143,7 +143,7 @@ Indikator | Mampu melakukan analisa secara kognitif/logika dan afektif/perasaan/
 Deskripsi Level 3 | Mapping
 Indikator | Mampu melakukan peneraan (*mapping*) terhadap orang lain/kelompok mengenai seberapa jauh mereka mampu melakukan analisa secara kognitif (logis) dan afektif (perasaan/emosi), terkait pentingnya aturan, norma dan nilai yang berlaku di organisasi, serta seberapa jauh sikap dan prilaku mereka.
 Deskripsi Level 4 | Influencing
-Indikator | Mampu melakukan peneraan (*mapping*) terhadap orang lain/kelompok mengenai seberapa jauh mereka mampu melakukan analisa secara kognitif (logis) dan afektif (perasaan/emosi), terkait pentingnya aturan, norma dan nilai yang berlaku di organisasi, serta seberapa jauh sikap dan prilaku mereka yang ditindaklanjuti dengan beragam inisiatif untuk mempengaruhi orang lain mau mewujudkan sikap & perilaku positif terhadap norma, nilai, prosedur dan aturan yang ada.
+Indikator | Mampu melakukan peneraan (*mapping*) terhadap orang lain/kelompok mengenai seberapa jauh mereka mampu melakukan analisa secara kognitif (logis) dan afektif (perasaan/emosi), terkait pentingnya aturan, norma dan nilai yang berlaku di organisasi, serta seberapa jauh sikap dan prilaku mereka yang ditindaklanjuti dengan beragam inisiatif untuk mempengaruhi orang lain mau mewujudkan sikap dan perilaku positif terhadap norma, nilai, prosedur dan aturan yang ada.
 Score and Note |
 
 ### Self Development
