@@ -5,7 +5,7 @@
 
 GANTI HALAMAN
 ---
-Gaia General Aptitude Test – Verbal
+Gaia General Aptitude Test
 
 G-GATe Verbal
 
@@ -63,6 +63,12 @@ GANTI HALAMAN
 GANTI HALAMAN
 ---
 
+
+Pilihan A  | Pilihan B | Pilihan C
+:-----|:----|:----
+bila pernyataan tersebut benar dan informasi tersebut terdapat di dalam bacaan.  | bila pernyataan tersebut salah dan informasi tersebut terdapat di dalam bacaan.| bila saudara tidak dapat menilai pernyataan tersebut benar atau salah tanpa keterangan tambahan.
+
+
 ---
 
 **Bacaan 1**
@@ -84,8 +90,16 @@ Gelar Mahatma sering disalahartikan di Barat sebagai nama kecil Gandhi. Mahatma 
 GANTI HALAMAN
 ---
 
+
+Pilihan A  | Pilihan B | Pilihan C
+:-----|:----|:----
+bila pernyataan tersebut benar dan informasi tersebut terdapat di dalam bacaan.  | bila pernyataan tersebut salah dan informasi tersebut terdapat di dalam bacaan.| bila saudara tidak dapat menilai pernyataan tersebut benar atau salah tanpa keterangan tambahan.
+
+
 ---
+
 **Bacaan 2**
+
 Pasar valuta asing atau disingkat valas adalah suatu jenis perdagangan atau transaksi yang memperdagangkan mata uang suatu negara terhadap mata uang negara lainnya yang melibatkan pasar-pasar uang utama.
 Pergerakan pasar valuta asing berputar mulai dari pasar Selandia Baru dan Australia: pukul 05.00–14.00 WIB, terus ke pasar Asia yaitu Jepang, Singapura, dan Hongkong: pukul 07.00–16.00 WIB, ke pasar Eropa yaitu Jerman dan Inggris: pukul 13.00–22.00 WIB, sampai ke pasar Amerika Serikat: pukul 20.30–10.30 WIB. Dalam perkembangan sejarahnya, bank sentral milik negara-negara dengan cadangan mata uang asing yang terbesar sekalipun dapat dikalahkan oleh kekuatan pasar valuta asing yang bebas.
 Menurut survei BIS (*Bank International for Settlement*), yang dilakukan pada akhir tahun 2013, nilai transaksi pasar valuta asing mencapai lebih dari USD$5,3 triliun per harinya.
@@ -95,26 +109,103 @@ Mengingat tingkat likuiditas dan percepatan pergerakan harga yang tinggi, valuta
 
 6. Perdagangan valas melibatkan pasar-pasar uang utama di dunia selama 24 jam secara terus menerus.
 
-7.	Nilai perdagangan valas di dunia bisa mengalahkan total nilai valas bank sentral milik suatu negara. 
-3.	Pasar valas adalah alternatif bisnis yang populer, tapi juga beresiko tinggi.
-4.	ROI adalah istilah yang muncul karena adanya perdagangan valuta asing.
-5.	Di Amerika pasar valasnya dibuka dari jam 8.30 malam sampai 10.30 pagi.
+7. Nilai perdagangan valas di dunia bisa mengalahkan total nilai valas bank sentral milik suatu negara. 
+8. Pasar valas adalah alternatif bisnis yang populer, tapi juga beresiko tinggi.
+9. ROI adalah istilah yang muncul karena adanya perdagangan valuta asing.
+10. Di Amerika pasar valasnya dibuka dari jam 8.30 malam sampai 10.30 pagi.
 
 
 GANTI HALAMAN
 ---
 
+
+Pilihan A  | Pilihan B | Pilihan C
+:-----|:----|:----
+bila pernyataan tersebut benar dan informasi tersebut terdapat di dalam bacaan.  | bila pernyataan tersebut salah dan informasi tersebut terdapat di dalam bacaan.| bila saudara tidak dapat menilai pernyataan tersebut benar atau salah tanpa keterangan tambahan.
+
+
 ---
-Bacaan 3
+
+**Bacaan 3**
+
 Gunung Tambora terletak di pulau Sumbawa yang merupakan bagian dari kepulauan Nusa Tenggara. Gunung ini adalah bagian dari busur Sunda, tali dari kepulauan vulkanik yang membentuk rantai selatan kepulauan Indonesia. Tambora membentuk semenanjungnya sendiri di pulau Sumbawa yang disebut semenanjung Sanggar.
 Tambora terbentuk oleh zona subduksi di bawahnya, dan hal ini meningkatkan ketinggian Tambora sampai 4.300 m yang membuat gunung ini pernah menjadi salah satu puncak tertinggi di Nusantara. Aktivitas vulkanik gunung berapi ini mencapai puncaknya pada bulan April tahun 1815 ketika meletus, dan menjadi letusan terbesar sejak letusan danau Taupo pada tahun 181.
 Letusan gunung ini terdengar hingga pulau Sumatra dan abu vulkaniknya jatuh di Kalimantan, Sulawesi, Jawa dan Maluku. Letusan gunung ini menyebabkan kematian hingga tidak kurang dari 71.000 orang dengan 11.000—12.000 di antaranya terbunuh secara langsung akibat dari letusan tersebut.
 Lebih dari itu, letusan gunung ini menyebabkan perubahan iklim dunia; terjadi perubahan drastis cuaca di Amerika Utara dan Eropa karena debu yang dihasilkan dari letusan Tambora; dan akibatnya banyak panen yang gagal dan kematian ternak di Belahan Utara yang menyebabkan terjadinya kelaparan terburuk pada abad ke-19. 
 
 
-11.	Gunung Tambora pernah menjadi gunung dengan puncak tertinggi di Nusantara.
-12.	Semenanjung Sanggar bukan bagian dari semenanjung di pulau Sumbawa.
+11. Gunung Tambora pernah menjadi gunung dengan puncak tertinggi di Nusantara.
+12. Semenanjung Sanggar bukan bagian dari semenanjung di pulau Sumbawa.
 13. Letusan Tambora menyebabkan dunia mengalami bencana kelaparan terburuk pada abad 19.
-14.	Taupo adalah nama gunung yang setelah meletus pada tahun 181, sisanya menjadi danau.
-15.	Paling tidak ada 71.000 korban jiwa, akibat dari letusan gunung Tambora.
+14. Taupo adalah nama gunung yang setelah meletus pada tahun 181, sisanya menjadi danau.
+15. Paling tidak ada 71.000 korban jiwa, akibat dari letusan gunung Tambora.
+
+
+GANTI HALAMAN
+---
+
+
+Pilihan A  | Pilihan B | Pilihan C
+:-----|:----|:----
+bila pernyataan tersebut benar dan informasi tersebut terdapat di dalam bacaan.  | bila pernyataan tersebut salah dan informasi tersebut terdapat di dalam bacaan.| bila saudara tidak dapat menilai pernyataan tersebut benar atau salah tanpa keterangan tambahan.
+
+
+---
+
+**Bacaan 4**
+
+Perangkat perusak (bahasa Inggris: *malware*, berasal dari kata *malicious* dan *software*) adalah perangkat lunak (software) yang diciptakan untuk menyusup atau merusak sistem komputer, peladen (*server*), atau jejaring komputer tanpa izin termaklum (*informed consent*) dari pemilik. Istilah ini adalah istilah umum yang dipakai oleh pakar komputer untuk mengartikan berbagai macam perangkat lunak atau kode perangkat lunak yang mengganggu atau mengusik.
+Perangkat lunak dianggap sebagai perangkat perusak berdasarkan maksud dari pembuat dan bukan berdasarkan ciri-ciri tertentu. Perangkat perusak mencakup virus komputer, cacing komputer, kuda Troya (*Trojan horse*), perangkat pengintai (*spyware*), perangkat iklan (*adware*) yang tak jujur, perangkat jahat (*crimeware*) dan perangkat lunak lainnya yang berniat jahat dan tidak diinginkan, seperti dua contoh dibawah ini:
+- Bancos: pencuri informasi yang menunggu pengguna untuk membuka situs perbankan lalu mengalihkan halaman situs bank yang asli ke yang palsu untuk mencuri informasi yang peka.
+- Gator: perangkat pengintai yang memantau kebiasaan penjelajahan web dengan rahasia, dan mengunggah (*upload*) data ke peladen untuk penyelidikan; kemudian, menyajikan iklan sembul sendiri yang disasarkan (*targeted pop-up ads*). 
+
+
+16. *Malware* bisa merusak sistim komputer dan peladen. 
+17. Perangkat perusak tertentu, mengandung *software* yang mampu mengunggah data ke server.
+18. Bancos adalah perangkat perusak yang mampu membuka situs perbankan.
+19. Tidak semua *adware* adalah perangkat perusak atau malware.
+20. Istilah *malware* kuda Troya, terinspirasi dari mitologi perang Troya dari Yunani.
+
+
+GANTI HALAMAN
+---
+
+
+Pilihan A  | Pilihan B | Pilihan C
+:-----|:----|:----
+bila pernyataan tersebut benar dan informasi tersebut terdapat di dalam bacaan.  | bila pernyataan tersebut salah dan informasi tersebut terdapat di dalam bacaan.| bila saudara tidak dapat menilai pernyataan tersebut benar atau salah tanpa keterangan tambahan.
+
+
+---
+
+**Bacaan 5**
+
+Rendang atau randang adalah masakan daging bercita rasa pedas yang menggunakan campuran dari berbagai bumbu dan rempah-rempah. Masakan ini dihasilkan dari proses memasak yang dipanaskan berulang-ulang dengan santan kelapa.
+Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga kering dan berwarna hitam pekat. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna coklat terang keemasan.
+Rendang dapat ditemukan di Rumah Makan Padang di seluruh dunia. Masakan ini populer di kalangan masyarakat Indonesia dan negara-negara di Asia Tenggara, seperti Malaysia, Singapura, Brunei, Filipina, dan Thailand. Di daerah asalnya, Minangkabau, rendang disajikan dalam berbagai upacara adat dan perhelatan istimewa.
+Meskipun rendang merupakan masakan tradisional Minangkabau secara umum, masing-masing daerah di Minangkabau memiliki teknik memasak dan penggunaan bumbu yang berbeda. Pada tahun 2011, rendang dinobatkan sebagai hidangan peringkat pertama dalam daftar *World's 50 Most Delicious Foods* (50 Hidangan Terlezat Dunia) yang digelar oleh CNN International.
+
+
+21. Rendang harus kering dan hitam hingga memasaknya harus berjam-jam.
+22. Kalau disimpan di lemari pendingin, rendang bisa bertahan lebih dari 2 bulan.
+23. Rendang bukanlah makanan sehari hari masyarakat Minangkabau.
+24. Rendang terkenal sebagai hidangan paling lezat di dunia.
+25. Ada jenis rendang tertentu yang disebut sebagai kalio.
+
+
+GANTI HALAMAN
+---
+
+
+![image](cover_gate_numeric1.jpeg)
+
+
+GANTI HALAMAN
+---
+Gaia General Aptitude Test
+
+G-GATe Numerical
+
+
+#### INSTRUKSI
 
