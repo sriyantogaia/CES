@@ -212,7 +212,7 @@ Nama | Attachment | Check
 :----|:----|:----
 Definisi |Perilaku nyata yang responsif ketika berinteraksi/ bersosialisasi dengan individu/kelompok, sehingga menghasilkan respon yang normatif/responsif juga dari individu/ kelompok.
 Deskripsi Level 1 | Presence
-Indikator | Kemampuan melakukan melakukan interaksi sosial sebatas individu hadir atau ada dalam sebuah lingkungan sosial.
+Indikator | Kemampuan melakukan interaksi sosial sebatas individu hadir atau ada dalam sebuah lingkungan sosial.
 Deskripsi Level 2 | Natural
 Indikator |	Kemampuan melakukan interaksi/relasi sosial sebatas sebuah interaksi yang menghasilkan respon normatif dari sebuah interaksi sosial.
 Deskripsi Level 3 | Forward
