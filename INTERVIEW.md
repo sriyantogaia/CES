@@ -31,16 +31,16 @@ Kode  | GOATW
 Alias |
 Tipe  | Simple
 Definisi |Kemampuan dalam mengelola target pekerjaan menjadi melakukan penyusunan perencanaan kerja memiliki unsur yang terdiri dari:1) **Goal**-tujuan; 2) **Objective**-sasaran; 3) **Activity**-aktifitas; 4) **Task**-tugas; 5) termasuk jadwal, alokasi sumber daya, pembagian peran & tanggungjawab; serta 6) struktur perorganisasian dalam rangka mencapai target kerja. 
-Deskripsi Level 1 | *Natural*
+Deskripsi Level 1 | Natural
 Indikator | Belum melakukan perencanaan, rencana yang ada merupakan rencana yang ditentukan organisasi. 
 Indikator | Tindakan/aktifitas yang dilakukan hanya berdasarkan dari situasi dan kondisi yang dihadapi.
-Deskripsi Level 2 | *Standard*
+Deskripsi Level 2 | Standard
 Indikator | Melakukan perencanaan yang telah memenuhi sebagian besar dari unsur perencanaan kerja untuk tingkat kompleksitas pekerjaan yang setara dengan jabatannya saat ini.
 Indikator | Merevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk tingkat kompleksitas pekerjaan yang setara dengan jabatannya saat ini
-Deskripsi Level 3 | *Upper Level*
+Deskripsi Level 3 | Upper Level
 Indikator | Melakukan perencanaan yang telah memenuhi sebagian besar dari unsur perencanaan kerja, untuk tingkat kompleksitas pekerjaan yang setingkat lebih tinggi dari jabatannya saat ini.
 Indikator | erevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk tingkat kompleksitas pekerjaan yang setingkat lebih tinggi dari jabatannya saat ini
-Deskripsi Level 4 | *Organizational Level*
+Deskripsi Level 4 | Organizational Level
 Indikator | Melakukan perencanaan yang telah memenuhi sebagian besar dari unsur perencanaan kerja untuk kompleksitas pekerjaan yang setara dengan jabatan tertinggi di organisasinya.
 Indikator | Merevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk kompleksitas pekerjaan yang setara dengan jabatan tertinggi di organisasinya.
 
@@ -52,7 +52,7 @@ Kode  | PDCA
 Alias |
 Tipe  | Simple
 Definisi |  Kemampuan seseorang dalam menjalankan pekerjaan dengan melakukan kaidah **PDCA**: *plan* - merencanakan, *do* - mengerjakan, *check* - mengontrol, *action* - merespon hasil kontrol, mengorganisir pelaksanaan, mengevaluasi dan melakukan perbaikan terhadap pelaksanaan.
-Deskripsi Level 1 | *Natural*
+Deskripsi Level 1 | Natural
 Indikator | Memakai kaidah ***Plan,Do, Check, Action***, tapi belum secara konsisten dan keseluruhan, hanya memanfaatkan perencanaan, pengerjaan, kontrol, dan evaluasi secara sporadis.
 Deskripsi Level 2 | Standard
 Indikator | Melakukan pengawasan terhadap suatu kegiatan dengan  menggunakan kaidah ***Plan,Do, Check, Action*** secara konsisten dan menyeluruh.
@@ -87,13 +87,13 @@ Kode | PICA
 Alias |
 Tipe | Simple
 Definisi |Kemampuan dalam menganalisa permasalahan dan membuat keputusan dalam rangka penyelesaian permasalahan tersebut.
-Deskripsi Level 1 | *Natural*
+Deskripsi Level 1 | Natural
 Indikator |Melakukan *gap analysis* dalam menghadapi masalah,dan merumuskan solusi hanya berdasarkan kebiasaan/pengalaman ketika menghadapi permasalahan yang serupa. 
-Deskripsi Level 2 | *Standard*
+Deskripsi Level 2 | Standard
 Indikator | Melakukan *gap analysis* ketika terhadap masalah,dan merumuskan solusi dengan mempertimbangkan berbagai informasi baru terkait dengan permasalahan yang ada dan mengevaluasi pengalaman yang relevan.
-Deskripsi Level 3 | *Preventive*
+Deskripsi Level 3 | Preventive
 Indikator | Melakukan *gap analysis* ketika terhadap masalah,dan merumuskan solusi dengan mempertimbangkan berbagai informasi baru terkait dengan permasalahan yang ada dan mengevaluasi pengalaman yang relevan serta menambahkan langkah antispatif untuk mengatasi permasalahan yang sama ke depannya.
-Deskripsi Level 4 | *Early Warning System*
+Deskripsi Level 4 | Early Warning System
 Indikator 4.1 | MMelakukan *gap analysis* ketika terhadap masalah,dan merumuskan solusi dengan mempertimbangkan berbagai informasi baru terkait dengan permasalahan yang ada dan mengevaluasi pengalaman yang relevan serta menambahkan langkah antispatif untuk mengatasi permasalahan yang sama ke depannya. Inisiatif ini juga didukung dengan pengembangan sistim peringatan dini (*early warning system*) dalam rangka memastikan kalau muncul masalah dengan pola yang sama bisa di deteksi sedini mungkin. 
 
 ### Coping with Change
@@ -104,13 +104,13 @@ Kode | COPC
 Alias |
 Tipe | Simple
 Definisi | Kemampuan seseorang dalam menganalisa situasi perubahan pola pikir dan pola kerja yang dikaitkan dengan kondisi diri maupun situasi sosial sampai diaktualisasikan dalam bentuk perilaku.
-Deskripsi Level 1 | *Attitude*
+Deskripsi Level 1 | Attitude
 Indikator | Mampu melakukan analisa secara kognitif (logis) dan afektif (perasaan/ emosi), dari suatu perubahan dalam hal beragam resikonya pada diri sendiri; lalu menentukan cara bersikap positif dalam menghadapi perubahan tersebut.
-Deskripsi Level 2 | *Behavior*
+Deskripsi Level 2 | Behavior
 Indikator | Mampu melakukan analisa secara kognitif (logis) dan afektif (perasaan/ emosi), mengenai dampak dan risiko perubahan; serta mampu bersikap positif dan meresponnya dalam bentuk perilaku yang konsisten.
-Deskripsi Level 3 | *Mapping*
+Deskripsi Level 3 | Mapping
 Indikator | Mampu menera (*mapping*) mengenai sejauh mana orang lain/kelompok mampu melakukan analisa secara kognitif (logis) dan afektif (perasaan/emosi) terhadap suatu perubahan dalam hal beragam resikonya pada diri mereka sendiri; lalu bagaimana sikap dan perilaku mereka dalam menghadapi perubahan tersebut.
-Deskripsi Level 4 | *Influencing*
+Deskripsi Level 4 | Influencing
 Indikator | Mampu menera kesiapan dan kemampuan orang lain/kelompok dalam merespon perubahan dan mampu menggunakannya secara efektif untuk mempengaruhi orang lain dalam mewujudkan sikap dan perilaku positif terhadap perubahan.
 
 ### Coping with Assurance & Compliance
@@ -121,13 +121,13 @@ Kode | COAC
 Alias |
 Tipe | Simple
 Definisi |Kemampuan seseorang dalam menganalisa norma, nilai, prosedur dan aturan yang ada, dikaitkan dengan kondisi diri sendiri maupun orang lain yang terkait, dan mengaktualisasikan dalam bentuk sikap dan perilaku yang positif.
-Deskripsi Level 1 | *Natural*
+Deskripsi Level 1 | Natural
 Indikator | Mampu melakukan analisa secara kognitif/logika dan afektif/perasaan/emosi, dalam hal menyadari pentingnya aturan, norma dan nilai yang berlaku di organisasi, bisa menerimanya namun belum diikuti dengan perilaku nyata secara konsisten.
-Deskripsi | *Behavior*
+Deskripsi | Behavior
 Indikator | Mampu melakukan analisa secara kognitif/logika dan afektif/perasaan/emosi, dalam hal menyadari pentingnya aturan, norma dan nilai yang berlaku di organisasi, dan mampu melakukannya dengan konsisten secara pribadi.
-Deskripsi Level 3 | *Mapping*
+Deskripsi Level 3 | Mapping
 Indikator | Mampu melakukan peneraan (*mapping*) terhadap orang lain/kelompok mengenai seberapa jauh mereka mampu melakukan analisa secara kognitif (logis) dan afektif (perasaan/emosi), terkait pentingnya aturan, norma dan nilai yang berlaku di organisasi, serta seberapa jauh sikap dan prilaku mereka.
-Deskripsi Level 4 | *Influencing*
+Deskripsi Level 4 | Influencing
 Indikator | Mampu melakukan peneraan (*mapping*) terhadap orang lain/kelompok mengenai seberapa jauh mereka mampu melakukan analisa secara kognitif (logis) dan afektif (perasaan/emosi), terkait pentingnya aturan, norma dan nilai yang berlaku di organisasi, serta seberapa jauh sikap dan prilaku mereka yang ditindaklanjuti dengan beragam inisiatif untuk mempengaruhi orang lain mau mewujudkan sikap & perilaku positif terhadap norma, nilai, prosedur dan aturan yang ada.
 
 ### Self Development
@@ -138,13 +138,13 @@ Kode | SELD
 Alias |
 Tipe | Simple
 Definisi |Kemampuan dalam melakukan pengembangan kompetensi diri secara tepat dengan meningkatkan pengetahuan dan keterampilan melalui cara:1) ***task oriented*** – meningkatkan kompetensi sesuai dengan kekurangan terkait dengan tugas yang harus diselesaikannya saat itu; secara langsung/informal ataupun melalui proses pembelajaran formal. 2) ***development oriented*** – meningkatkan kompetensi berdasar analisa dengan kebutuhan jabatan/tugas/karirnya di masa depan; secara langsung/informal ataupun melalui proses pembelajaran formal; 3) ***life-long learning*** – meningkatkan kompetensi karena haus ilmu pengetahuan dan senang belajar beragam hal baru, tanpa harus ada hubungannya dengan tugas/karir ataupun jabatan, secara langsung/informal ataupun melalui proses pembelajaran formal.
-Deskripsi Level 1 | *Formal*
+Deskripsi Level 1 | Formal
 Indikator | Melakukan inisiatif peningkatan kompetensi karena penugasan /persyaratan kerja formal: training, seminar, dan lain sejenisnya berdasarkan program internal organisasi.
-Deskripsi Level 2 | 1 *Self Development Initiative*
+Deskripsi Level 2 | 1 Self Development Initiative
 Indikator |	Hanya menggunakan satu cara dalam meningkatkan kompetensinya: salah satu dari: task oriented atau development oriented saja.
-Deskripsi Level 3 | 2 *Self Development Initiative*
+Deskripsi Level 3 | 2 Self Development Initiative
 Indikator | Menggunakan dua cara dalam meningkatkan kompetensinya task oriented dan development oriented.
-Deskripsi Level 4 | 3 *Self Development Initiative/Life Long Learning*
+Deskripsi Level 4 | 3 Self Development Initiative/Life Long Learning
 Indikator | Menggunakan seluruh inisiatif pengembangan diri yang meliputi: task oriented, development oriented dan life-long learning.
 
 ### People Development
@@ -155,13 +155,13 @@ Kode | PEOD
 Alias |
 Tipe | Simple
 Definisi |Kemampuan seseorang dalam menganalisa kelebihan dan kekurangan orang lain hingga diaktualisasikan dalam bentuk membangun kesadaran hingga upaya untuk mengoptimalkan potensi dan mengembangkan kekurangan tersebut
-Deskripsi Level 1 | *General Awareness (Comprehensive Knowledge)*
+Deskripsi Level 1 | General Awareness (Comprehensive Knowledge)
 Indikator | Sadar akan kebutuhan pengembangan orang lain/bawahan; Sadar akan kelebihan dan kekurangan orang lain/bawahan; namun hal ini belum diikuti dengan suatu upaya untuk pengembangan diri mereka.
-Deskripsi Level 2 | *Buy-In Awareness (What's In It For Me)*
+Deskripsi Level 2 | Buy-In Awareness (What's In It For Me)
 Indikator |	Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan sudah mulai melakukan upaya untuk pengembangan namun masih terbatas pada tuntutan sesaat. Melakukan pengembangan orang lain/bawahan karena hal itu sesuai dengan tuntutan tugas Melakukan pengembangan orang lain/bawahan dengan intensi agar mereka dapat meringankan beban kerjanya
-Deskripsi Level 3 | *(External Driven- Utilize Opportunity)*
+Deskripsi Level 3 | (External Driven- Utilize Opportunity)
 Indikator | Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan mulai menunjukkan inisiatif untuk pengembangan diri mereka dengan memanfaatkan kesempatan dan peluang yang tersedia. Melakukan pengembangan orang lain/bawahan secara mandiri dengan memanfaatkan fasilitas yang tersedia.Melakukan pengembangan orang lain/bawahan secara mandiri setelah menemui hambatan.
-Deskripsi Level 4 | *Self-Initiation (Internal driven - Create Opportunity*)
+Deskripsi Level 4 | Self-Initiation (Internal driven - Create Opportunity)
 Indikator | Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan berinisiatif untuk mencari peluang untuk melakukan pengembangan diri. Melakukan upaya untuk menemukenali dan menjalankan proses pengembangan orang lain/bawahan secara mandiri.
 
 ### Customer Service
@@ -172,13 +172,13 @@ Kode | CUSS
 Alias |
 Tipe | Simple
 Definisi |Kemampuan seseorang dalam menganalisa kebutuhan customer, termasuk apa yang dilakukan oleh pihak lain/competitor, dalam rangka memberi pelayanan yang terbaik bagi customer tersebut.
-Deskripsi Level 1 | *Natural*
+Deskripsi Level 1 | Natural
 Indikator | Memahami standar pelayanan pelanggan yang berlaku/disepakati secara umum, untuk jenis produk yang setara dengan produknya; namun belum direspon malalui inisiatif pelayanan secara konsisten dan/atau menyeluruh.
-Deskripsi Level 2 | *Standard*
+Deskripsi Level 2 | Standard
 Indikator |	Memahami standar pelayanan pelanggan yang berlaku/disepakati secara umum, untuk jenis produk yang setara dengan produknya yang diaplikasikan dengan inisiatif pelayanan yang konsisten dan menyeluruh.
-Deskripsi Level 3 | *Good*
+Deskripsi Level 3 | Good
 Indikator | Memahami dan mengimplementasikan standar pelayanan pelanggan dengan melebihi pelayanan yang berlaku/disepakati secara umum, untuk jenis produk yang setara dengan produknya yang diaplikasikan untuk semua pelanggan. Meskipun para kompetitor tidak sulit untuk menirunya.
-Deskripsi Level 4 | *Excelent*
+Deskripsi Level 4 | Excelent
 Indikator | Memahami dan mengimplementasikan standar pelayanan pelanggan dengan melebihi pelayanan yang berlaku/disepakati secara umum, untuk jenis produk yang setara dengan produknya yang diaplikasikan dengan mempertimbangkan *individual difference* dan *demand* dari konsumennya, sehingga tidak mudah untuk ditiru oleh kompetitor: memerlukan perubahan paradigma dan/atau sistem/proses bisnis para pelakunya.
 
 ### Social Mapping Awareness
@@ -189,13 +189,13 @@ Kode | SOMA
 Alias |
 Tipe | Simple
 Definisi |Kemampuan untuk melakukan ***Social Mapping and Awareness*** (SMA): mengenali dan mengantisipasi perasaan, sudut pandang dan pertimbangan orang lain, pada level individual maupun kelompok; dalam rangka memetakan perasaan, kebutuhan dan keprihatinan individu maupun kelompok tersebut.
-Deskripsi Level 1 | *Natural*
+Deskripsi Level 1 | Natural
 Indikator | Kemampuan melakukan pemetaan sosial secara normatif/utama/besar dari setiap individu maupun kelompok tersebut.
-Deskripsi Level 2 | *Detail*
+Deskripsi Level 2 | Detail
 Indikator |Kemampuan dalam melakukan pemetaan sosial dengan mempertimbangkan perbedaan detail/rinci/unik dari setiap individu maupun kelompok.
-Deskripsi Level 3 | *Pattern*
+Deskripsi Level 3 | Pattern
 Indikator | Kemampuan dalam melakukan pemetaan sosial dengan mempertimbangkan karakteristik pola perasaan, sudut pandang, dan pertimbangan individu/kelompok dan dengan dasar tersebut mampu mengidentifikasi keterkaitan, kesamaan dan perbedaannya ke dalam beberapa tingkatan tertentu.
-Deskripsi Level 4 | *Analysis*
+Deskripsi Level 4 | Analysis
 Indikator | Kemampuan dalam melakukan pemetaan sosial dengan mempertimbangkan karakteristik pola perasaan, sudut pandang, dan pertimbangan individu/kelompok secara mendalam sehingga awareness yang muncul merupakan suatu kesimpulan dari dinamika hubungan sebab akibat tersebut dari aspek perilaku tersebut tersebut.
 
 ### Social Attachment
@@ -206,13 +206,13 @@ Kode | SOCA
 Alias |
 Tipe | Simple
 Definisi |Perilaku nyata yang responsif ketika berinteraksi/ bersosialisasi dengan individu/kelompok, sehingga menghasilkan respon yang normatif/responsif juga dari individu/ kelompok.
-Deskripsi Level 1 | *Presence*
+Deskripsi Level 1 | Presence
 Indikator | Kemampuan melakukan melakukan interaksi sosial sebatas individu hadir atau ada dalam sebuah lingkungan sosial.
-Deskripsi Level 2 | *Natural*
+Deskripsi Level 2 | Natural
 Indikator |	Kemampuan melakukan interaksi/relasi sosial sebatas sebuah interaksi yang menghasilkan respon normatif dari sebuah interaksi sosial.
-Deskripsi Level 3 | *Forward*
+Deskripsi Level 3 | Forward
 Indikator | Kemampuan melakukan interaksi/relasi sosial sampai pada sebuah interaksi yang menghasilkan respon positif terhadap peluang pengembangan interaksi dan/atau kerja sama lebih lanjut
-Deskripsi Level 4 | *Positive*
+Deskripsi Level 4 | Positive
 Indikator | Kemampuan melakukan interaksi/relasi sosial sampai pada interaksi yang menghasilkan beragam respon yang merupakan bagian dari implementasi strategi yang efektif untuk mempengaruhi, memimpin ataupun mengelola kesepakatan ataupun konflik.
 
 ### Setting
@@ -223,7 +223,7 @@ Kode | SETT
 Alias |
 Tipe | Composite
 Member | KPIS GOAT
-Definisi | Kemampuan dalam menetapkan target dan perencanaan yang jelas dan kongkrit dalammenyikapi suatu penugasan.
+Definisi | Kemampuan dalam menetapkan target dan perencanaan yang jelas dan kongkrit dalam menyikapi suatu penugasan.
 
 ### Fulfilling
 
