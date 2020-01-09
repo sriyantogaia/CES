@@ -5,10 +5,9 @@
 
 GANTI HALAMAN
 ---
-Gaia General Aptitude Test
 
-G-GATe Verbal
-
+### Gaia General Aptitude Test
+### G-GATe Verbal
 
 #### INSTRUKSI
 
@@ -196,16 +195,375 @@ Meskipun rendang merupakan masakan tradisional Minangkabau secara umum, masing-m
 GANTI HALAMAN
 ---
 
-
-![image](cover_gate_numeric1.jpeg)
+### TERIMA KASIH, ANDA TELAH MENYELESAIKAN TES INI
+### PERIKSA KEMBALI JAWABAN ANDA
+### JANGAN SAMPAI ADA YANG TERLEWATKAN DAN
+### TUNGGU INSTRUKSI SELANJUTNYA
 
 
 GANTI HALAMAN
 ---
-Gaia General Aptitude Test
 
-G-GATe Numerical
+![image](cover_gate_numerik.jpeg)
 
+
+GANTI HALAMAN
+---
+### Gaia General Aptitude Test
+### G-GATe Numerikal
+---
+
+#### INSTRUKSI
+
+Dalam tes ini, Saudara diminta menggunakan sejumlah data yang disajikan dalam bentuk tabel-tabel statistik untuk menjawab persoalan-persoalan berikut ini. Untuk setiap pertanyaan, terdapat lima pilihan jawaban. Hanya ada satu jawaban yang benar pada setiap nomor soal.
+
+---
+
+![image](N_kondisi0_tabel instruksi.jpeg)
+
+
+1. Berapa prosentase dari mahasiswa kategori Baik Sekali yang tidak lulus ujian akhir Semester?
+
+	A. 10%            B. 20%            C. 25%            D. 50%            E. 75% 
+
+	Jawaban **C**. 
+	
+	Pada tabel di atas, terdapat informasi bahwa batas lulus hasil ujian adalah 40. Pada kategori baik sekali yang berjumlah total 100, terdapat 25 mahasiswa yang memiliki nilai di bawah 40 (3 + 22) atau 25%.
+
+
+2. Jika calon-calon yang diijinkan ikut ujian adalah mereka yang kategori Baik dan Baik Sekali, maka jumlah calon yang lulus ujian berkurang berapa orang?
+
+	A. 39            B. 32            C. 24             D. 23             E. 11
+
+	Jawaban **A**. 
+	
+	Pada tabel di atas, jumlah mahasiswa yang lulus dan berasal dari kategori yang tidak diikutsertakan (Cukup dan Kurang) berjumlah 39 orang (15 + 9 + 8 + 7). 
+
+
+GANTI HALAMAN
+---
+
+### Secara keseluruhan Test ini terdiri dari terdiri dari 5 Tabel dan 20 Soal. Anda diberi waktu 45 menit untuk mengerjakan seluruh persoalan tersebut.
+
+
+|BERHENTI DAN TUNGGU INSTRUKSI SELANJUTNYA, JANGAN MEMBALIK KERTAS SEBELUM DIPERINTAHKAN|
+:---
+
+
+GANTI HALAMAN
+---
+
+
+![image](N_kondisi1.jpeg)
+
+1. Berapa nilai total dari produksi Mutu A dan C yang diproduksi selama tahun 201Y+1?.
+
+	A.  Rp. 49.000.000,-
+
+	B.  Rp. 54.000.000,-
+	
+	C.  Rp. 55.000.000,-
+	
+	D.  Rp. 79.000.000,-
+	
+	E.  bukan semuanya
+
+
+2. Jika produksi barang mutu B dari tahun 201Y+4 ke tahun 201Y+5 bertambah 26%; berapa nilai total produksi barang mutu B yang diproduksi selama tahun 201Y+5?.
+
+	A.  Rp. 11.340.000,-
+	
+	B.  Rp. 12.600.000,-
+	
+	C.  Rp. 15.120.000,-
+	
+	D.  Rp. 22.680.000,-
+	
+	E.  bukan semuanya
+
+
+3. Berapa perbandingan nilai total produksi barang mutu A terhadap mutu C pada tahun 201Y?.
+
+	A.  0,83 : 1
+	
+	B.  0,89 : 1
+	
+	C.  0,94 : 1
+	
+	D.  1,06 : 1
+	
+	E.  bukan semuanya
+
+
+GANTI HALAMAN
+---
+
+
+4. Berapa nilai total produksi barang mutu C tahun 201Y+2 dan barang mutu B tahun 201Y+4?.
+
+	A.  Rp. 30.000.000,-
+	
+	B.  Rp. 31.000.000,-
+	
+	C.  Rp. 33.000.000,-
+	
+	D.  Rp. 39.000.000,-
+	
+	E.  bukan semuanya
+	
+	
+![image](N_kondisi2.jpeg)
+
+	
+5. Berapa total jumlah peserta yang mendaftar di Universitas Endahnesa pada tahun 201Y dan 201Y+1?. 
+
+	A.  35.040
+	
+	B.  36.600
+	
+	C.  46.560
+	
+	D.  48.000
+	
+	E.  bukan semuanya
+
+
+6. Dari tahun 201Y ke tahun 201Y+1, berapa persen perubahan jumlah peserta yang mendaftar di Universitas Adiwasesa? (hasil dibulatkan ke satuan).
+
+	A.  turun 7%
+	
+	B.  naik 16%
+	
+	C.  naik 65%
+	
+	D.  naik 86%
+	
+	E.  bukan semuanya
+ 
+
+
+GANTI HALAMAN
+---
+
+
+7. Berapa rasio jumlah peserta di Universitas Daksina yang mendaftar pada tahun 201Y+1 dibandingkan dengan tahun 201Y? (hasil dibulatkan ke satuan).
+
+	A.  1,08 : 1
+	
+	B.  1 : 0,93
+	
+	C.  1 : 1,16
+	
+	D.  0,93 : 1
+	
+	E.  bukan semuanya
+	
+	
+8.Berapa perbedaan jumlah peserta yang mendaftar di Universitas Citrabangsa dari tahun 201Y ke tahun 201Y+1?.
+
+	A.  lebih sedikit 1.800
+
+	B.  lebih sedikit 8.640
+	
+	C.  lebih banyak 11.400
+	
+	D.  lebih banyak 14.160
+	
+	E.  bukan semuanya
+	
+	
+![image](N_kondisi3.jpeg)
+
+9. Untuk semua lokasi di Jakarta, berlaku potongan harga 25% (untuk Standar) dan 40% (untuk Premium); berapa total nilai sewa untuk 1 hari di 1 lokasi Premium: 10 m2 di Jakarta Barat dan 1 lokasi Standar: 10 m2 di Jakarta Pusat?.
+
+	A.  Rp.     853.500,-
+	
+	B.  Rp.  1.101.500,-
+	
+	C.  Rp.  1.095.500,-
+	
+	D.  Rp.  1.105.100,-
+	
+	E.  bukan semuanya
+
+
+GANTI HALAMAN
+---
+
+
+10. Berapa banyak lokasi kantor tersebut di atas yang nilai total sewa per bulan untuk 1 lokasi: 10m2 kantor Standar dan 1 lokasi: 10 m2 kantor Premium, nilainya di bawah Rp. 27.000.000,- (dengan asumsi hari kerja 20 hari per bulan)?.
+
+	A.  1
+	
+	B.  2
+	
+	C.  3
+	
+	D.  5
+	
+	E.  bukan semuanya 
+
+11. Berapa nilai total harga sewa per hari, kalau kebutuhannya adalah: 2.000 m2 kantor Standar di setiap lokasi di Indonesia, di luar biaya pengelolaan gedung?.
+
+	A.  Rp. 305.000.000,-
+	
+	B.  Rp. 365.000.000,-
+	
+	C.  Rp. 335.000.000,-
+	
+	D.  Rp. 395.000.000,-
+	
+	E.  bukan semuanya
+
+12. Jika biaya servis harian sebesar Rp. 50.000,-/hari diberlakukan untuk kantor Standar di lokasi Jakarta Barat; berapa rata-rata persentase kenaikan harga Standar per bulan, untuk kedua lokasi di Jakarta, dengan asumsi 20 hari kerja per bulan (hasil dibulatkan ke satuan)?.
+	A.  2%
+
+	B.  3%
+	
+	C.  4%
+	
+	D.  5%
+	
+	E.  bukan semuanya
+
+
+GANTI HALAMAN
+---
+
+![image](N_kondisi4.jpeg)
+
+
+13. Kota manakah yang jumlah rata-rata manajer prianya paling rendah untuk setiap tokonya?.
+
+	A.  Medan
+	
+	B.  Balikpapan
+	C.  Makasar
+	
+	
+	D.  Ambon
+	
+	E.  bukan semuanya
+
+
+14.Jika unit yang dikirim ke Balikpapan, Makasar, dan Ambon menurun 7%, 5%, dan 12%; menjadi berapa jumlah total unit yang tidak dikirim untuk keseluruhan 5 kota?.
+
+	A.  14.098
+	
+	B.  13.301
+	
+	C.  13.302
+	
+	D.  13.303
+	
+	E.  bukan semuanya
+
+
+15.Berapa jumlah pegawai yang dikurangi di Medan dan Jakarta?.
+
+	A.  400
+	
+	B.  410
+	
+	C.  420
+	
+	D.  430
+	
+	E.  bukan semuanya 
+
+
+16. Jika sisa unit yang ada di lokasi Jakarta, termasuk yang belum dikirim, semuanya terjual dengan harga resmi; akan mendapat tambahan berapa nilai penjualan semua toko yang ada di Jakarta?.
+
+	A.  157.600.000
+	
+	B.  167.600.000
+	
+	C.  427.950.000
+	
+	D.  443.450.000
+	
+	E.  bukan semuanya
+
+
+![image](N_kondisi5.jpeg)
+
+
+17. Berapa harga total untuk 2 tiket pulang pergi (P/P), dengan memakai BIS PATAS yang paling cepat waktu tempuhnya dan juga menyediakan makan pagi?.
+
+	A.  Rp.  420.000,-
+	
+	B.  Rp.  540.000,-
+	
+	C.  Rp.  440.000,-
+	
+	D.  Rp.  340.000,-
+	
+	E.  bukan semuanya
+
+
+GANTI HALAMAN
+---
+
+
+18. Dari Jogja, Anda harus bertemu dengan klien di kantornya di Semarang pada jam 13:00. Anda berencana naik taksi dari setasiun Kereta Api ataupun Bus Patas di Semarang, menuju kantornya yang kurang lebih akan memakan waktu 25 s/d 35 menit. Tiket termurah apa yang harus anda beli dari Jogja, kalau anda harus berangkat dari Jogja antara jam 09:00 – 09:30?.
+
+	A.  Kereta Api Jam 09:20
+	
+	B.  Kereta Api Jam 09:00
+	
+	C.  Bis Patas Jam 09:30
+	
+	D.  Bis Patas Jam 09:10
+	
+	E.  bukan semuanya				
+
+
+19. Berapa perbedaan kecepatan rata-rata antara kereta api yang berangkat jam 07:50 dan yang berangkat jam 10:30, dengan asumsi jarak tempuh Jogja – Semarang: 125 kilometer?.
+
+	A.  3 km/jam
+	
+	B.  4 km/jam 
+	
+	C.  5 km/jam
+	
+	D.  6 km/jam
+	
+	E.  bukan semuanya
+
+
+20. Kalau Anda harus bepergian dari Jogja ke Semarang secepat mungkin, dan harus memanfaatkan koneksi WiFi selama di perjalananan, serta harus sampai Semarang sebelum jam 13:00, berapa harga tiket 1x jalan yang harus anda bayar?.
+
+	A.  Rp. 130.000,-
+	
+	B.  Rp. 100.000,- 
+	
+	C.  Rp. 110.000,-
+	
+	D.  Rp. 119.000,-
+	
+	E.  bukan semuanya
+
+
+GANTI HALAMAN
+---
+
+### TERIMA KASIH, ANDA TELAH MENYELESAIKAN TES INI
+### PERIKSA KEMBALI JAWABAN ANDA
+### JANGAN SAMPAI ADA YANG TERLEWATKAN DAN
+### TUNGGU INSTRUKSI SELANJUTNYA
+
+
+GANTI HALAMAN
+---
+
+![image](cover_gate_abstrak.jpeg)
+
+
+GANTI HALAMAN
+---
+### Gaia General Aptitude Test
+### G-GATe Abstrak
+---
 
 #### INSTRUKSI
 
