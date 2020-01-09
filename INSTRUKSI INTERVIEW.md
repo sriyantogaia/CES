@@ -171,7 +171,7 @@ Indikator | Sadar akan kebutuhan pengembangan orang lain/bawahan; Sadar akan kel
 Deskripsi Level 2 | Buy-In Awareness (What's In It For Me)
 Indikator |	Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan sudah mulai melakukan upaya untuk pengembangan namun masih terbatas pada tuntutan sesaat. Melakukan pengembangan orang lain/bawahan karena hal itu sesuai dengan tuntutan tugas Melakukan pengembangan orang lain/bawahan dengan intensi agar mereka dapat meringankan beban kerjanya.
 Deskripsi Level 3 | (External Driven- Utilize Opportunity)
-Indikator | Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan mulai menunjukkan inisiatif untuk pengembangan diri mereka dengan memanfaatkan kesempatan dan peluang yang tersedia. Melakukan pengembangan orang lain/bawahan secara mandiri dengan memanfaatkan fasilitas yang tersedia.Melakukan pengembangan orang lain/bawahan secara mandiri setelah menemui hambatan.
+Indikator | Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan mulai menunjukkan inisiatif untuk pengembangan diri mereka dengan memanfaatkan kesempatan dan peluang yang tersedia. Melakukan pengembangan orang lain/bawahan secara mandiri dengan memanfaatkan fasilitas yang tersedia. Melakukan pengembangan orang lain/bawahan secara mandiri setelah menemui hambatan.
 Deskripsi Level 4 | Self-Initiation (Internal driven - Create Opportunity)
 Indikator | Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan berinisiatif untuk mencari peluang untuk melakukan pengembangan diri. Melakukan upaya untuk menemukenali dan menjalankan proses pengembangan orang lain/bawahan secara mandiri.
 Score and Note |
