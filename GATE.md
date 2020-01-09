@@ -11,7 +11,8 @@ Deskripsi | Kemampuan nalar dalam menghadapi persoalan-persoalan yang bersifat v
 Nama  | Numerical Reasoning
 :-----|:----
 Kode  | NUMR
-Alias INA | Penalaran Angka
+Alias | 
+Tipe | Simple
 Definisi | Potensi untuk memahami dan menggunakannya dalam pemecahan suatu masalah numerikal.
 Deskripsi | Kemampuan nalar dalam menghadapi persoalan-persoalan yang bersifat numerik, angka-angka, tabel dan sejenisnya
 
@@ -19,14 +20,17 @@ Deskripsi | Kemampuan nalar dalam menghadapi persoalan-persoalan yang bersifat n
 Nama  | Abstraction
 :-----|:----
 Kode  | ABSR
-Alias INA | Penalaran Abstrak
+Alias | 
+Tipe | Simple
 Definisi | Potensi untuk memahami dan menggunakannya dalam pemecahan suatu masalah abstraksi.
 Deskripsi | Kemampuan nalar dalam menghadapi persoalan-persoalan yang bersifat abstraksi, ruang bidang, bentuk dan sejenisnya.
 
 
 Nama  | Average
 :-----|:----
-Kode  | RERA
-Alias INA | Nilai Rerata
+Kode  | AVER
+Alias | 
+Tipe | Composite
+Member | VERR, NUMR, ABSR
 Definisi | Potensi kognitif
 Deskripsi | Potensi kognitif hasil rerata dari element *verbal reasoning*, *numerical reasoing* dan *abstraction*. 
