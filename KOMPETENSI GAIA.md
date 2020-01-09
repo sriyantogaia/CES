@@ -12,7 +12,7 @@ Deskripsi |Gabungan dari kompetensi Analytical Thinking, Conceptual Thinking, da
 
 Nama  | Analytical Thinking
 :-----|:----
-Kode  | ATH
+Kode  | ANAT
 Alias INA| Berpikir Analisis
 Definisi | Kemampuan berpikir secara sistematis yang dimulai dari **mengenali**, **memilah** **<u>unsur</u>** pembentuk kondisi dan melihat **keterkaitan** masing-masing unsur pembentuk kondisi tersebut, serta kemampuan melihat **hubungan sebab-akibat** dalam rangka mengenali **unsur utama** pembentuk kondisi.
 Perilaku Kunci | Mengenali <u>unsur-unsur</u> pembentuk <u>kondisi</u>.
