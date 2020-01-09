@@ -180,9 +180,9 @@ Score and Note |
 
 Nama | Customer Service | Check
 :----|:----|:----
-Definisi |Kemampuan seseorang dalam menganalisa kebutuhan customer, termasuk apa yang dilakukan oleh pihak lain/competitor, dalam rangka memberi pelayanan yang terbaik bagi customer tersebut.
+Definisi |Kemampuan seseorang dalam menganalisa kebutuhan *customer*, termasuk apa yang dilakukan oleh pihak lain/*competitor*, dalam rangka memberi pelayanan yang terbaik bagi customer tersebut.
 Deskripsi Level 1 | Natural
-Indikator | Memahami standar pelayanan pelanggan yang berlaku/disepakati secara umum, untuk jenis produk yang setara dengan produknya; namun belum direspon malalui inisiatif pelayanan secara konsisten dan/atau menyeluruh.
+Indikator | Memahami standar pelayanan pelanggan yang berlaku/disepakati secara umum, untuk jenis produk yang setara dengan produknya; namun belum direspon melalui inisiatif pelayanan secara konsisten dan/atau menyeluruh.
 Deskripsi Level 2 | Standard
 Indikator |	Memahami standar pelayanan pelanggan yang berlaku/disepakati secara umum, untuk jenis produk yang setara dengan produknya yang diaplikasikan dengan inisiatif pelayanan yang konsisten dan menyeluruh.
 Deskripsi Level 3 | Good
