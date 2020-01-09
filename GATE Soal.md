@@ -155,8 +155,8 @@ bila pernyataan tersebut benar dan informasi tersebut terdapat di dalam bacaan. 
 
 Perangkat perusak (bahasa Inggris: *malware*, berasal dari kata *malicious* dan *software*) adalah perangkat lunak (software) yang diciptakan untuk menyusup atau merusak sistem komputer, peladen (*server*), atau jejaring komputer tanpa izin termaklum (*informed consent*) dari pemilik. Istilah ini adalah istilah umum yang dipakai oleh pakar komputer untuk mengartikan berbagai macam perangkat lunak atau kode perangkat lunak yang mengganggu atau mengusik.
 Perangkat lunak dianggap sebagai perangkat perusak berdasarkan maksud dari pembuat dan bukan berdasarkan ciri-ciri tertentu. Perangkat perusak mencakup virus komputer, cacing komputer, kuda Troya (*Trojan horse*), perangkat pengintai (*spyware*), perangkat iklan (*adware*) yang tak jujur, perangkat jahat (*crimeware*) dan perangkat lunak lainnya yang berniat jahat dan tidak diinginkan, seperti dua contoh dibawah ini:
-- Bancos: pencuri informasi yang menunggu pengguna untuk membuka situs perbankan lalu mengalihkan halaman situs bank yang asli ke yang palsu untuk mencuri informasi yang peka.
-- Gator: perangkat pengintai yang memantau kebiasaan penjelajahan web dengan rahasia, dan mengunggah (*upload*) data ke peladen untuk penyelidikan; kemudian, menyajikan iklan sembul sendiri yang disasarkan (*targeted pop-up ads*). 
+- **Bancos**: pencuri informasi yang menunggu pengguna untuk membuka situs perbankan lalu mengalihkan halaman situs bank yang asli ke yang palsu untuk mencuri informasi yang peka.
+- **Gator**: perangkat pengintai yang memantau kebiasaan penjelajahan web dengan rahasia, dan mengunggah (*upload*) data ke peladen untuk penyelidikan; kemudian, menyajikan iklan sembul sendiri yang disasarkan (*targeted pop-up ads*). 
 
 
 16. *Malware* bisa merusak sistim komputer dan peladen. 
@@ -566,4 +566,121 @@ GANTI HALAMAN
 ---
 
 #### INSTRUKSI
+
+
+Dalam tes ini, Anda akan dihadapkan pada serangkaian gambar yang tidak lengkap. Anda diminta menentukan gambar yang paling tepat untuk melengkapi agar sesuai dengan pola rangkaian gambar yang ada.
+Untuk lebih jelasnya, perhatikan contoh berikut:
+
+---
+
+![image](ABS0_contoh.jpeg)
+
+
+Jawabannya: **C**
+
+Pada rangkaian gambar di atas terdapat dua bentuk yang berpindah yaitu segitiga hitam dan lingkaran. 
+Untuk setiap gambar berikut:
+
+- Segitiga hitam berputar 900 ke kiri dan bergerak melompati satu sudut segi enam searah jarum jam.
+
+- Lingkaran bergerak ke sudut segi enam berikut berlawanan arah jarum jam. 
+				 
+
+### Secara keseluruhan Test ini terdiri dari terdiri dari 10 Soal. 
+### Anda diberi waktu 10 menit untuk mengerjakan seluruh persoalan tersebut.
+
+
+
+|BERHENTI DAN TUNGGU INSTRUKSI SELANJUTNYA, JANGAN MEMBALIK KERTAS SEBELUM DIPERINTAHKAN|
+:---
+
+
+GANTI HALAMAN
+---
+
+Soal 1.
+
+![image](ABS1a.jpeg)
+
+
+![image](ABS1b.jpeg)
+
+
+Soal 2.
+
+![image](ABS2a.jpeg)
+
+
+![image](ABS2b.jpeg)
+
+
+Soal 3.
+
+![image](ABS3a.jpeg)
+
+
+![image](ABS3b.jpeg)
+
+
+Soal 4.
+
+![image](ABS4a.jpeg)
+
+
+![image](ABS4b.jpeg)
+
+
+Soal 5.
+
+![image](ABS5a.jpeg)
+
+
+![image](ABS5b.jpeg)
+
+
+Soal 6.
+
+![image](ABS6a.jpeg)
+
+
+![image](ABS6b.jpeg)
+
+
+Soal 7.
+
+![image](ABS7a.jpeg)
+
+
+![image](ABS7b.jpeg)
+
+
+Soal 8.
+
+![image](ABS8a.jpeg)
+
+
+![image](ABS8b.jpeg)
+
+
+Soal 9.
+
+![image](ABS9a.jpeg)
+
+
+![image](ABS9b.jpeg)
+
+
+Soal 10.
+
+![image](ABS10a.jpeg)
+
+
+![image](ABS10b.jpeg)
+
+
+
+### TERIMA KASIH, ANDA TELAH MENYELESAIKAN TES INI
+### PERIKSA KEMBALI JAWABAN ANDA
+### JANGAN SAMPAI ADA YANG TERLEWATKAN DAN
+### TUNGGU INSTRUKSI SELANJUTNYA
 
