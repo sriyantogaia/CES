@@ -113,7 +113,7 @@ Indikator | Melakukan *gap analysis* ketika terhadap masalah,dan merumuskan solu
 Deskripsi Level 3 | Preventive
 Indikator | Melakukan *gap analysis* ketika terhadap masalah,dan merumuskan solusi dengan mempertimbangkan berbagai informasi baru terkait dengan permasalahan yang ada dan mengevaluasi pengalaman yang relevan serta menambahkan langkah antispatif untuk mengatasi permasalahan yang sama ke depannya.
 Deskripsi Level 4 | Early Warning System
-Indikator 4.1 | MMelakukan *gap analysis* ketika terhadap masalah,dan merumuskan solusi dengan mempertimbangkan berbagai informasi baru terkait dengan permasalahan yang ada dan mengevaluasi pengalaman yang relevan serta menambahkan langkah antisipatif untuk mengatasi permasalahan yang sama ke depannya. Inisiatif ini juga didukung dengan pengembangan sistim peringatan dini (*early warning system*) dalam rangka memastikan kalau muncul masalah dengan pola yang sama bisa di deteksi sedini mungkin. 
+Indikator 4.1 | Melakukan *gap analysis* ketika terhadap masalah,dan merumuskan solusi dengan mempertimbangkan berbagai informasi baru terkait dengan permasalahan yang ada dan mengevaluasi pengalaman yang relevan serta menambahkan langkah antisipatif untuk mengatasi permasalahan yang sama ke depannya. Inisiatif ini juga didukung dengan pengembangan sistim peringatan dini (*early warning system*) dalam rangka memastikan kalau muncul masalah dengan pola yang sama bisa di deteksi sedini mungkin. 
 Score and Note |
 
 ### Coping with Change
