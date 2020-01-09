@@ -62,7 +62,7 @@ Indikator | Belum melakukan perencanaan, rencana yang ada merupakan rencana yang
 Indikator | Tindakan/aktifitas yang dilakukan hanya berdasarkan dari situasi dan kondisi yang dihadapi.
 Deskripsi Level 2 | Standard
 Indikator | Melakukan perencanaan yang telah memenuhi sebagian besar dari unsur perencanaan kerja untuk tingkat kompleksitas pekerjaan yang setara dengan jabatannya saat ini.
-Indikator | Merevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk tingkat kompleksitas pekerjaan yang setara dengan jabatannya saat ini
+Indikator | Merevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk tingkat kompleksitas pekerjaan yang setara dengan jabatannya saat ini.
 Deskripsi Level 3 | Upper Level
 Indikator | Melakukan perencanaan yang telah memenuhi sebagian besar dari unsur perencanaan kerja, untuk tingkat kompleksitas pekerjaan yang setingkat lebih tinggi dari jabatannya saat ini.
 Indikator | erevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk tingkat kompleksitas pekerjaan yang setingkat lebih tinggi dari jabatannya saat ini
@@ -154,22 +154,22 @@ Definisi |Kemampuan dalam melakukan pengembangan kompetensi diri secara tepat de
 Deskripsi Level 1 | Formal
 Indikator | Melakukan inisiatif peningkatan kompetensi karena penugasan /persyaratan kerja formal: training, seminar, dan lain sejenisnya berdasarkan program internal organisasi.
 Deskripsi Level 2 | 1 Self Development Initiative
-Indikator |	Hanya menggunakan satu cara dalam meningkatkan kompetensinya: salah satu dari: task oriented atau development oriented saja.
+Indikator |	Hanya menggunakan satu cara dalam meningkatkan kompetensinya: salah satu dari: *task oriented* atau *development oriented* saja.
 Deskripsi Level 3 | 2 Self Development Initiative
 Indikator | Menggunakan dua cara dalam meningkatkan kompetensinya task oriented dan development oriented.
 Deskripsi Level 4 | 3 Self Development Initiative/Life Long Learning
-Indikator | Menggunakan seluruh inisiatif pengembangan diri yang meliputi: task oriented, development oriented dan life-long learning.
+Indikator | Menggunakan seluruh inisiatif pengembangan diri yang meliputi: *task oriented*, *development oriented* dan *life-long learning*.
 Score and Note |
 
 ### People Development
 
 Nama | People Development | Check
 :----|:----|:----
-Definisi |Kemampuan seseorang dalam menganalisa kelebihan dan kekurangan orang lain hingga diaktualisasikan dalam bentuk membangun kesadaran hingga upaya untuk mengoptimalkan potensi dan mengembangkan kekurangan tersebut
+Definisi |Kemampuan seseorang dalam menganalisa kelebihan dan kekurangan orang lain hingga diaktualisasikan dalam bentuk membangun kesadaran hingga upaya untuk mengoptimalkan potensi dan mengembangkan kekurangan tersebut.
 Deskripsi Level 1 | General Awareness (Comprehensive Knowledge)
 Indikator | Sadar akan kebutuhan pengembangan orang lain/bawahan; Sadar akan kelebihan dan kekurangan orang lain/bawahan; namun hal ini belum diikuti dengan suatu upaya untuk pengembangan diri mereka.
 Deskripsi Level 2 | Buy-In Awareness (What's In It For Me)
-Indikator |	Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan sudah mulai melakukan upaya untuk pengembangan namun masih terbatas pada tuntutan sesaat. Melakukan pengembangan orang lain/bawahan karena hal itu sesuai dengan tuntutan tugas Melakukan pengembangan orang lain/bawahan dengan intensi agar mereka dapat meringankan beban kerjanya
+Indikator |	Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan sudah mulai melakukan upaya untuk pengembangan namun masih terbatas pada tuntutan sesaat. Melakukan pengembangan orang lain/bawahan karena hal itu sesuai dengan tuntutan tugas Melakukan pengembangan orang lain/bawahan dengan intensi agar mereka dapat meringankan beban kerjanya.
 Deskripsi Level 3 | (External Driven- Utilize Opportunity)
 Indikator | Sadar akan kelebihan dan kekurangan orang lain/bawahan; dan mulai menunjukkan inisiatif untuk pengembangan diri mereka dengan memanfaatkan kesempatan dan peluang yang tersedia. Melakukan pengembangan orang lain/bawahan secara mandiri dengan memanfaatkan fasilitas yang tersedia.Melakukan pengembangan orang lain/bawahan secara mandiri setelah menemui hambatan.
 Deskripsi Level 4 | Self-Initiation (Internal driven - Create Opportunity)
@@ -203,7 +203,7 @@ Indikator |Kemampuan dalam melakukan pemetaan sosial dengan mempertimbangkan per
 Deskripsi Level 3 | Pattern
 Indikator | Kemampuan dalam melakukan pemetaan sosial dengan mempertimbangkan karakteristik pola perasaan, sudut pandang, dan pertimbangan individu/kelompok dan dengan dasar tersebut mampu mengidentifikasi keterkaitan, kesamaan dan perbedaannya ke dalam beberapa tingkatan tertentu.
 Deskripsi Level 4 | Analysis
-Indikator | Kemampuan dalam melakukan pemetaan sosial dengan mempertimbangkan karakteristik pola perasaan, sudut pandang, dan pertimbangan individu/kelompok secara mendalam sehingga awareness yang muncul merupakan suatu kesimpulan dari dinamika hubungan sebab akibat tersebut dari aspek perilaku tersebut tersebut.
+Indikator | Kemampuan dalam melakukan pemetaan sosial dengan mempertimbangkan karakteristik pola perasaan, sudut pandang, dan pertimbangan individu/kelompok secara mendalam sehingga *awareness* yang muncul merupakan suatu kesimpulan dari dinamika hubungan sebab akibat tersebut dari aspek perilaku tersebut tersebut.
 Score and Note |
 
 ### Social Attachment
