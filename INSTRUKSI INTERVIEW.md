@@ -65,7 +65,7 @@ Indikator | Melakukan perencanaan yang telah memenuhi sebagian besar dari unsur 
 Indikator | Merevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk tingkat kompleksitas pekerjaan yang setara dengan jabatannya saat ini.
 Deskripsi Level 3 | Upper Level
 Indikator | Melakukan perencanaan yang telah memenuhi sebagian besar dari unsur perencanaan kerja, untuk tingkat kompleksitas pekerjaan yang setingkat lebih tinggi dari jabatannya saat ini.
-Indikator | erevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk tingkat kompleksitas pekerjaan yang setingkat lebih tinggi dari jabatannya saat ini
+Indikator | Merevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk tingkat kompleksitas pekerjaan yang setingkat lebih tinggi dari jabatannya saat ini.
 Deskripsi Level 4 | Organizational Level
 Indikator | Melakukan perencanaan yang telah memenuhi sebagian besar dari unsur perencanaan kerja untuk kompleksitas pekerjaan yang setara dengan jabatan tertinggi di organisasinya.
 Indikator | Merevisi/merancang ulang perencanaan kerja yang sudah ada, dalam rangka pelaksanaan kerja yang lebih efektif dan efisien untuk kompleksitas pekerjaan yang setara dengan jabatan tertinggi di organisasinya.
@@ -113,7 +113,7 @@ Indikator | Melakukan *gap analysis* ketika terhadap masalah,dan merumuskan solu
 Deskripsi Level 3 | Preventive
 Indikator | Melakukan *gap analysis* ketika terhadap masalah,dan merumuskan solusi dengan mempertimbangkan berbagai informasi baru terkait dengan permasalahan yang ada dan mengevaluasi pengalaman yang relevan serta menambahkan langkah antispatif untuk mengatasi permasalahan yang sama ke depannya.
 Deskripsi Level 4 | Early Warning System
-Indikator 4.1 | MMelakukan *gap analysis* ketika terhadap masalah,dan merumuskan solusi dengan mempertimbangkan berbagai informasi baru terkait dengan permasalahan yang ada dan mengevaluasi pengalaman yang relevan serta menambahkan langkah antispatif untuk mengatasi permasalahan yang sama ke depannya. Inisiatif ini juga didukung dengan pengembangan sistim peringatan dini (*early warning system*) dalam rangka memastikan kalau muncul masalah dengan pola yang sama bisa di deteksi sedini mungkin. 
+Indikator 4.1 | MMelakukan *gap analysis* ketika terhadap masalah,dan merumuskan solusi dengan mempertimbangkan berbagai informasi baru terkait dengan permasalahan yang ada dan mengevaluasi pengalaman yang relevan serta menambahkan langkah antisipatif untuk mengatasi permasalahan yang sama ke depannya. Inisiatif ini juga didukung dengan pengembangan sistim peringatan dini (*early warning system*) dalam rangka memastikan kalau muncul masalah dengan pola yang sama bisa di deteksi sedini mungkin. 
 Score and Note |
 
 ### Coping with Change
@@ -156,7 +156,7 @@ Indikator | Melakukan inisiatif peningkatan kompetensi karena penugasan /persyar
 Deskripsi Level 2 | 1 Self Development Initiative
 Indikator |	Hanya menggunakan satu cara dalam meningkatkan kompetensinya: salah satu dari: *task oriented* atau *development oriented* saja.
 Deskripsi Level 3 | 2 Self Development Initiative
-Indikator | Menggunakan dua cara dalam meningkatkan kompetensinya task oriented dan development oriented.
+Indikator | Menggunakan dua cara dalam meningkatkan kompetensinya *task oriented* dan *development oriented*.
 Deskripsi Level 4 | 3 Self Development Initiative/Life Long Learning
 Indikator | Menggunakan seluruh inisiatif pengembangan diri yang meliputi: *task oriented*, *development oriented* dan *life-long learning*.
 Score and Note |
