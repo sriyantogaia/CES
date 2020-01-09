@@ -94,11 +94,11 @@ Definisi |Kemampuan dalam melakukan pemberdayaan (*empowering*) bawahan secara t
 Deskripsi Level 1 | 1 Cara
 Indikator | Hanya menggunakan satu cara pemberdayaan saja dalam meningkatkan pengetahuan dan keterampilan bawahan: salah satu dari 3 cara *empowering: directing, supervising, motivating* namun menetapkan penugasan yang belum berbasis pada kemampuan anak buah
 Deskripsi Level 2 | 2 Cara
-Indikator | Melakukan *empowering* dengan memakai 2 dari 3 cara empowering: *directing*, *motivating*, *supervising*; dengan kombinasi yang sesuai dengan kondisi/situasi yang ada dengan menetapkan penugasan berbasis pada kemampuan anak buah.
+Indikator | Melakukan *empowering* dengan memakai 2 dari 3 cara *empowering*: *directing*, *motivating*, *supervising*; dengan kombinasi yang sesuai dengan kondisi/situasi yang ada dengan menetapkan penugasan berbasis pada kemampuan anak buah.
 Deskripsi Level 3 | 3 Cara
-Indikator | Melakukan empowering dengan memakai seluruh 3 cara empowering: *directing*, *motivating*, *supervising* dengan menetapkan penugasan berbasis pada pengembangan bawahan.
+Indikator | Melakukan empowering dengan memakai seluruh 3 cara *empowering*: *directing*, *motivating*, *supervising* dengan menetapkan penugasan berbasis pada pengembangan bawahan.
 Deskripsi Level 4 | 4 Cara
-Indikator |Melakukan empowering dengan memakai seluruh pendekatan yang meliputi *empowering: directing, supervising, motivating*; serta membangun inisiatif *development coaching* dengan anak buahnya. Pengembangan telah dilakukan untuk kebutuhan bawahan di masa yang akan datang.
+Indikator |Melakukan empowering dengan memakai seluruh pendekatan yang meliputi *empowering*: *directing, supervising, motivating*; serta membangun inisiatif *development coaching* dengan anak buahnya. Pengembangan telah dilakukan untuk kebutuhan bawahan di masa yang akan datang.
 Score and Note |
 
 ### Trouble Shooting Management
