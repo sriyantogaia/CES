@@ -6,7 +6,7 @@ Simaklah beragam pernyataan pada halaman selanjutnya, kemudian pilihlah salah sa
 
 
 **NO** |**PERNYATAAN**| **SANGAT TIDAK SETUJU** | **TIDAK SETUJU** | **RAGU-RAGU** | **SETUJU** | **SANGAT SETUJU** |
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:----|
+:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----|
 |1| Saya  cukup terbuka tentang perasaan dan emosi saya. |||||
 |2| Ketika sedang memikirkan sesuatu, saya memblokir perasaan saya. |||||
 |3| Saya menjadi sedih ketika melihat ada orang diperlakukan tidak adil. |||||
