@@ -32,8 +32,9 @@ Indikator 5.3 | Membuat konsep kebijakan dan strategi penerapan sikap integritas
 
 Nama  | Kerjasama
 :-----|:----
-Kode  | KER
+Kode  | KERJ
 Alias | 
+Tipe | Simple
 Definisi | Kemampuan menjalin, membina, mempertahankan hubungan kerja yang efektif, memiliki komitmen saling membantu dalam penyelesaian tugas, dan mengoptimalkan segala sumberdaya untuk mencapai tujuan strategis organisasi.
 Deskripsi Level 1 | Berpartisipasi dalam kelompok kerja.
 Indikator 1.1 | Berpartisipasi sebagai anggota tim yang baik, melakukan tugas/bagiannya, dan mendukung keputusan tim.
@@ -60,8 +61,9 @@ Indikator 5.3 | Membangun konsensus untuk menggabungkan sumberdaya dari berbagai
 
 Nama  | Komunikasi
 :-----|:----
-Kode  | KOM
+Kode  | KOMU
 Alias | 
+Tipe | Simple
 Definisi | Kemampuan untuk menerangkan pandangan dan gagasan secara jelas, sistematis disertai argumentasi yang logis dengan cara-cara yang sesuai baik secara lisan maupun tertulis; memastikan pemahaman; mendengarkan secara aktif dan efektif; mempersuasi, meyakinkan dan membujuk orang lain dalam rangka mencapai tujuan organisasi.
 Deskripsi Level 1 | Menyampaikan informasi dengan jelas, lengkap, pemahaman yang sama.
 Indikator 1.1 | Menyampaikan informasi (data), pikiran atau pendapat dengan jelas, singkat dan tepat dengan menggunakan cara/media yang sesuai dan mengikuti alur yang logis.
@@ -88,8 +90,9 @@ Indikator 5.3 | Menggagas sistem komunikasi dengan melibatkan pemangku kepenting
 
 Nama | Orientasi Pada Hasil
 :----|:----
-Kode | OPH
+Kode | ORPH
 Alias | 
+Tipe | Simple
 Definisi | Kemampuan mempertahankan komitmen pribadi yang tinggi untuk menyelesaikan tugas, dapat diandalkan, bertanggung jawab, mampu secara sistimatis mengidentifikasi risiko dan peluang dengan memperhatikan keterhubungan antara perencanaan dan hasil, untuk keberhasilan organisasi.
 Deskripsi Level 1 | Bertanggung jawab untuk memenuhi standar kerja.
 Indikator 1.1 | Menyelesaikan tugas dengan tuntas; dapat diandalkan.
@@ -116,8 +119,9 @@ Indikator 5.3 | Membuat kebijakan untuk menerapkan metode kerja yang lebih efekt
 
 Nama | Pelayanan Publik
 :----|:----
-Kode | PPU
+Kode | PELP
 Alias | 
+Tipe | Simple
 Definisi | KKemampuan dalam melaksanakan tugas-tugas pemerintahan, pembangunan dan kegiatan pemenuhan kebutuhan pelayanan publik secara profesional, transparan, mengikuti standar pelayanan yang objektif, netral, tidak memihak, tidak diskriminatif, serta tidak terpengaruh kepentingan pribadi / kelompok / golongan partai / politik.
 Deskripsi Level 1 | Menjalankan tugas mengikuti standar pelayanan.
 Indikator 1.1 | Mampu mengerjakan tugas-tugas dengan mengikuti standar pelayanan yang objektif, netral, tidak memihak, tidak diskriminatif, transparan dan tidak terpengaruh kepentingan pribadi/kelompok/partai politik.
@@ -144,8 +148,9 @@ Indikator 5.3 | Menjamin terselenggaranya pelayanan publik yang objektif, netral
 
 Nama  | Pengembangan Diri dan Orang Lain
 :-----|:----
-Kode  | PDO
+Kode  | PEDO
 Alias | 
+Tipe | Simple
 Definisi | Kemampuan untuk meningkatkan pengetahuan dan menyempurnakan keterampilan diri; menginspirasi orang lain untuk mengembangkan dan menyempurnakan pengetahuan dan keterampilan yang relevan dengan pekerjaan dan pengembangan karir jangka panjang, mendorong kemauan belajar sepanjang hidup, memberikan saran/bantuan, umpan balik, bimbingan untuk membantu orang lain untuk mengembangkan potensi dirinya.
 Deskripsi Level 1 | Pengembangan diri.
 Indikator 1.1 | Mengidentifikasi kebutuhan pengembangan diri dan menyeleksi sumber serta metodologi pembelajaran yang diperlukan.
@@ -172,8 +177,9 @@ Indikator 5.3 | Memberikan inspirasi kepada individu atau kelompok untuk belajar
 
 Nama | Mengelola Perubahan
 :----|:----
-Kode | MPU
+Kode | MENP
 Alias | 
+Tipe | Simple
 Definisi | Kemampuan dalam menyesuaikan diri dengan situasi yang baru atau berubah dan tidak bergantung secara berlebihan pada metode dan proses lama, mengambil tindakan untuk mendukung dan melaksanakan insiatif perubahan, memimpin usaha perubahan, mengambil tanggung jawab pribadi untuk memastikan perubahan berhasil diimplementasikan secara efektif.
 Deskripsi Level 1 | Mengikuti perubahan dengan arahan.
 Indikator 1.1 | Sadar mengenai perubahan yang terjadi di organisasi dan berusaha menyesuaikan diri dengan perubahan tersebut.
@@ -200,8 +206,9 @@ Indikator 5.3 | Secara berkelanjutan, mencari cara cara baru untuk memberi nilai
 
 Nama  | Pengambilan Keputusan
 :-----|:----
-Kode  | PKE
+Kode  | PENK
 Alias | 
+Tipe | Simple
 Definisi | Kemampuan membuat keputusan yang baik secara tepat waktu dan dengan keyakinan diri setelah mempertimbangkan prinsip kehati-hatian, dirumuskan secara sistematis dan seksama berdasarkan berbagai informasi, alternatif pemecahan masalah dan konsekuensinya, serta bertanggung jawab atas keputusan yang diambil.
 Deskripsi Level 1 | Mengumpulkan informasi untuk bertindak sesuai kewenangan.
 Indikator 1.1 | Mengumpulkan dan mempertim-bangkan informasi yang dibutuhkan dalam mencari solusi.
@@ -228,8 +235,9 @@ Indikator 5.3 | Membuat keputusan atau kebijakan yang berdampak nasional dengan 
 
 Nama  | Perekat Bangsa
 :-----|:----
-Kode  | PBA
+Kode  | PERB
 Alias | 
+Tipe | Simple
 Definisi | Kemampuan dalam mempromosikan sikap toleransi, keterbukaan, peka terhadap perbedaan individu/kelompok masyarakat; mampu menjadi perpanjangan tangan pemerintah dalam mempersatukan masyarakat dan membangun hubungan sosial psikologis dengan masyarakat di tengah kemajemukan Indonesia sehingga menciptakan kelekatan yang kuat antara ASN dan para pemangku kepentingan serta diantara para pemangku kepentingan itu sendiri; menjaga, mengembangkan, dan mewujudkan rasa persatuan dan kesatuan dalam kehidupan bermasyarakat, berbangsa dan bernegara Indonesia.
 Deskripsi Level 1 | Peka memahami dan menerima kemajemukan.
 Indikator 1.1 | Mampu memahami, menerima, peka terhadap perbedaan individu/kelompok masyarakat.
@@ -259,7 +267,7 @@ Nama  | Kompetensi Manajerial
 Kode  | KOMM
 Alias | 
 Tipe | Composite
-Member | tunggu kode
+Member | INTE, KERJ, KOMU, ORPH, PELP, PEDO, MENP, PENK
 Definisi | 
 
 ### Sosio Kultural
@@ -269,5 +277,5 @@ Nama  | Sosio Kultural
 Kode  | SOSK
 Alias | 
 Tipe | Composite
-Member | tunggu kode
+Member | PERB
 Definisi | 
