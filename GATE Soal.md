@@ -598,7 +598,7 @@ Untuk setiap gambar berikut:
 GANTI HALAMAN
 ---
 
-Soal 1.
+Soal 1. (A)
 
 ![image](ABS1a.jpeg)
 
