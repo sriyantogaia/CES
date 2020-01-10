@@ -81,7 +81,7 @@ Gelar Mahatma sering disalahartikan di Barat sebagai nama kecil Gandhi. Mahatma 
 
 ---
 
-1. Demonstrasi damai adalah respon Gandhi terhadap tindakan kekerasan.
+1. Demonstrasi damai adalah respon Gandhi terhadap tindakan kekerasan.(A)
 2.	Nama Mahatma Gandhi berasal dari gabungan bahasa Sanskerta dan bahasa asli India.
 3.	Bahwa Gandhi tidak menyukai istilah Mahatma dapat dibuktikan kebenarannya.
 4.	Gandhi memulai aktivitas politik nya justru di luar India.
@@ -262,7 +262,7 @@ GANTI HALAMAN
 
 	A.  Rp. 49.000.000,-
 
-	B.  Rp. 54.000.000,-
+	B.  Rp. 54.000.000,- (B)
 	
 	C.  Rp. 55.000.000,-
 	
