@@ -1,4 +1,6 @@
+# GGATE SOAL
 
+Semua soal GGATE Verbal memakai pola jawaban ABC
 
 ![image](cover_gate_verbal1.jpeg)
 
