@@ -33,11 +33,11 @@ GANTI HALAMAN
 
 ### Pertanyaan 1
 
-Jika berwisata ke Taman Bunga Indonusa adalah insentif yang nilainya terendah, kepada siapa saja insentif tersebut akan Anda berikan? 
+Jika berwisata ke Taman Bunga Indonusa adalah insentif yang nilainya terendah, kepada siapa saja insentif tersebut akan Anda berikan? (A)
 
 Pilihan Jawaban
 
-**A. Kelly, Sunarto, Chris, Truno**
+A. Kelly, Sunarto, Chris, Truno
 
 B. Kelly, Sunarto, Sandra, Chris
 
