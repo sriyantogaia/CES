@@ -1,4 +1,6 @@
+#GGATE SOAL
 
+Semua soal verbal memakai format pilihan jawaban ABC
 
 ![image](cover_gate_verbal1.jpeg)
 
@@ -256,9 +258,9 @@ GANTI HALAMAN
 
 ![image](N_kondisi1.jpeg)
 
-1. Berapa nilai total dari produksi Mutu A dan C yang diproduksi selama tahun 201Y+1?.
+1. Berapa nilai total dari produksi Mutu A dan C yang diproduksi selama tahun 201Y+1?. (A)
 
-	A.  Rp. 49.000.000,-
+	A.  Rp. 49.000.000,- 
 
 	B.  Rp. 54.000.000,-
 	
