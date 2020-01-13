@@ -1,6 +1,6 @@
-# SOAL AIME
+# WORKBOOK AIME
 
-- title: AIME PT ABC
+- title: AIME PT ABC (judul woorkbook)
 - bookType: simple-teaser
 - testItems: 136
 - optionsMode: likert
@@ -9,6 +9,9 @@
 - evidenceType: option
 - teaserTail: 
 - elements: MNGE, USNG, IDTK, UDST
+
+
+
 
 # LIKERT
 
@@ -66,6 +69,81 @@ Berapa nilai total dari produksi Mutu A dan C yang diproduksi selama tahun 201Y+
 - C. Rp. 55.000.000,-
 - D. Rp. 79.000.000,-
 - E. bukan semuanya
+
+
+## ELEMENTS
+
+Kode | MNGE
+:----|:----
+Alias | (nama lain dari elemen)
+Definisi Alias | (definisi yang dipakai untuk modul ini)
+Deskripsi LOW | Menggambarkan diri sebagai orang yang tidak peka dalam mengenali emosi (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Tidak peka untuk menangkap isyarat emosional dan dalam mengenali bahwa ada sesuatu yang salah.
+Deskripsi MEDIUM LOW | Menggambarkan diri sebagai orang yang cenderung kurang mampu untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Kurang bisa menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah.
+Deskripsi MEDIUM HIGH | Menggambarkan dirinya sebagai orang yang cukup mampu untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah.
+Deskripsi HIGH | Menggambarkan diri sebagai orang yang memiliki kemampuan untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Tidak mengalami kesulitan untuk menggambarkan perasaannya. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah atau ketika seseorang sedang mencoba untuk menipu.
+
+# WORKBOOK INTERVIEW
+
+- title: BEI GAIA
+- bookType: 
+- testItems: 12
+- optionsMode: 
+- optionsNums: 
+- optionsSelect: 
+- evidenceType: reported behavior
+- teaserTail: 
+- elements: KPIS, GOAS, PDCA, SKEM, PICA, COPC, COPA, SELD, PEOD, CUSO, SOCA, SOCT
+
+# INTRO
+- intro adalah panduan melaksanakan interview....
+
+## ELEMENTS
+
+Kode | KPIS
+:----|:----
+Alias | (nama lain dari elemen)
+Definisi Alias | (definisi yang dipakai untuk modul ini)
+Deskripsi Level 1 | Menggambarkan diri sebagai orang yang tidak peka dalam mengenali emosi (termasuk perubahan emosi) baik pada sendiri maupun orang lain.<br> Tidak peka untuk menangkap isyarat emosional dan dalam mengenali bahwa ada sesuatu yang salah.
+Deskripsi MEDIUM LOW | Menggambarkan diri sebagai orang yang cenderung kurang mampu untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Kurang bisa menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah.
+Deskripsi MEDIUM HIGH | Menggambarkan dirinya sebagai orang yang cukup mampu untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah.
+Deskripsi HIGH | Menggambarkan diri sebagai orang yang memiliki kemampuan untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Tidak mengalami kesulitan untuk menggambarkan perasaannya. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah atau ketika seseorang sedang mencoba untuk menipu.
+
+# WORKBOOK DISKUSI
+
+- title: LGD GAIA
+- bookType: 
+- testItems: 5
+- optionsMode: 
+- optionsNums: 
+- optionsSelect: 
+- evidenceType: observed behavior
+- teaserTail: 
+- elements: OBSE, INVO, INQU, ADVO, SITH
+
+# INTRO
+- intro adalah panduan melaksanakan LGD.
+
+# Section
+
+# Artikel
+- Artikel 1
+- Artikel 12
+
+# Soal
+- Bahaslah......(pendahuluan)
+
+# Elemen
+Kode | OBSE
+:----|:----
+Alias | (nama lain dari elemen)
+Definisi Alias | (definisi yang dipakai untuk modul ini)
+Deskripsi level 1 | Menggambarkan diri sebagai orang yang tidak peka dalam mengenali emosi (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Tidak peka untuk menangkap isyarat emosional dan dalam mengenali bahwa ada sesuatu yang salah.
+Deskripsi MEDIUM LOW | Menggambarkan diri sebagai orang yang cenderung kurang mampu untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Kurang bisa menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah.
+Deskripsi MEDIUM HIGH | Menggambarkan dirinya sebagai orang yang cukup mampu untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah.
+Deskripsi HIGH | Menggambarkan diri sebagai orang yang memiliki kemampuan untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Tidak mengalami kesulitan untuk menggambarkan perasaannya. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah atau ketika seseorang sedang mencoba untuk menipu.
+
+
+
 
 
 
