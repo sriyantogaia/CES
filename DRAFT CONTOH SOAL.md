@@ -75,6 +75,7 @@ Berapa nilai total dari produksi Mutu A dan C yang diproduksi selama tahun 201Y+
 
 Kode | MNGE
 :----|:----
+Member | (nama elemen yang dikandung, xxx, abc, ....)
 Alias | (nama lain dari elemen)
 Definisi Alias | (definisi yang dipakai untuk modul ini)
 Deskripsi LOW | Menggambarkan diri sebagai orang yang tidak peka dalam mengenali emosi (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Tidak peka untuk menangkap isyarat emosional dan dalam mengenali bahwa ada sesuatu yang salah.
@@ -142,8 +143,113 @@ Deskripsi MEDIUM LOW | Menggambarkan diri sebagai orang yang cenderung kurang ma
 Deskripsi MEDIUM HIGH | Menggambarkan dirinya sebagai orang yang cukup mampu untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah.
 Deskripsi HIGH | Menggambarkan diri sebagai orang yang memiliki kemampuan untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Tidak mengalami kesulitan untuk menggambarkan perasaannya. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah atau ketika seseorang sedang mencoba untuk menipu.
 
+# WORKBOOK GPQ
+
+- title: GPQ
+- bookType: simple
+- testItems: 120
+- optionsMode: statement
+- optionsNums: 2
+- optionsSelect: 1
+- evidenceType: option
+- teaserTail: 
+- elements: ANAT, CONT, CREA, STRT, PLAN, ORGA, CONR, SOCW, COLL, NETW, COMM, PERS, SELC, ADAP, SELE, ACHR, MANR, MANA, MANE, MANO
+
+#INTRO
+
+# Soal 1
+- A.
+- B.
+
+# ELEMENT
+Kode | ANAT
+:----|:----
+Alias | (nama lain dari elemen)
+Definisi Alias | (definisi yang dipakai untuk modul ini)
+Deskripsi LOW | Menggambarkan diri sebagai orang yang tidak peka dalam mengenali emosi (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Tidak peka untuk menangkap isyarat emosional dan dalam mengenali bahwa ada sesuatu yang salah.
+Deskripsi MEDIUM LOW | Menggambarkan diri sebagai orang yang cenderung kurang mampu untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Kurang bisa menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah.
+Deskripsi MEDIUM HIGH | Menggambarkan dirinya sebagai orang yang cukup mampu untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah.
+Deskripsi HIGH | Menggambarkan diri sebagai orang yang memiliki kemampuan untuk mengenali emosi diri (termasuk perubahan emosi) baik pada sendiri maupun orang lain. Tidak mengalami kesulitan untuk menggambarkan perasaannya. Mudah menangkap isyarat emosional dan dapat mengetahui bahwa ada sesuatu yang salah atau ketika seseorang sedang mencoba untuk menipu.
+
+Kode | MANR
+:----|:----
+Member | ANAT,......
+Alias | (nama lain dari elemen)
+Definisi Alias | (definisi yang dipakai untuk modul ini)
 
 
 
+# WORKBOOK GATE
+
+- title: GATE
+- bookType: simple-teaser
+- testItems: 55
+- optionsSelect: 1
+- evidenceType: option
+- teaserTail: 
+- elements: MNGE, USNG, IDTK, UDST
+
+# SECTION VERBAL
+
+- bookType: predefined
+- optionsMode: statement
+- optionsNums: 3
+
+Pilihan A  | Pilihan B | Pilihan C
+:-----|:----|:----
+bila pernyataan tersebut benar dan informasi tersebut terdapat di dalam bacaan.  | bila pernyataan tersebut salah dan informasi tersebut terdapat di dalam bacaan.| bila saudara tidak dapat menilai pernyataan tersebut benar atau salah tanpa keterangan tambahan.
+
+# ARTIKEL
+
+Mohandas Karamchand Gandhi juga dipanggil Mahatma Gandhi adalah seorang pemimpin spiritual dan politikus dari India. Pada masa kehidupan Gandhi, India merupakan koloni Inggris dan Gandhi adalah salah seorang yang paling penting yang terlibat dalam Gerakan Kemerdekaan India. Dia adalah aktivis yang tidak menggunakan kekerasan, yang mengusung gerakan kemerdekaan melalui aksi demonstrasi damai.
+
+Setelah lulus menjadi pengacara, Gandhi pergi ke Afrika Selatan, sebuah koloni Inggris, di mana dia mengalami diskriminasi ras yang dinamakan apartheid; dan dia kemudian memutuskan untuk menjadi seorang aktivis politik agar dapat mengubah hukum-hukum yang diskriminatif tersebut. Gandhi pun membentuk sebuah gerakan non-kekerasan.
+
+Kembali ke India, dia membantu proses kemerdekaan India dari jajahan Inggris; hal ini memberikan inspirasi bagi rakyat di koloni-koloni lainnya agar berjuang mendapatkan kemerdekaannya, dan akhirnya memecah Kemaharajaan Britania untuk kemudian membentuk Persemakmuran. 
+Gelar Mahatma sering disalahartikan di Barat sebagai nama kecil Gandhi. Mahatma merupakan sebuah kata dalam bahasa Sanskerta yang berasal dari maha (berarti besar) dan atma (berarti Jiwa). Rabindranath Tagore disebutkan sebagai orang yang pertama kali memberikan gelar tersebut untuk Gandhi. Dalam otobiografinya, Gandhi mengatakan bahwa dia tidak pernah menyukai dan sering terluka oleh gelar itu.
+
+# SOAL 1
+ Demonstrasi damai adalah respon Gandhi terhadap tindakan kekerasan.
+ 
+# Soal 2, dst....
 
 
+# SECTION NUMERIKAL
+
+- bookType: teaser-story-grouped
+- optionsMode: statement
+- optionsNums: 5
+
+# SECTION 1
+
+# ARTIKEL
+
+# SOAL 1
+
+Berapa nilai total dari produksi Mutu A dan C yang diproduksi selama tahun 201Y+1?. (A)
+
+- A.  Rp. 49.000.000,- 
+- B.  Rp. 54.000.000,-
+- C.  Rp. 55.000.000,-
+- D.  Rp. 79.000.000,-
+- E.  bukan semuanya
+
+
+# SECTION ABSTRAK
+
+- bookType: simple-teaser
+- optionsMode: graphic
+- optionsNums: 6
+
+# INTRO
+
+# SOAL 1
+
+![soal 1](soal 1.jpeg) (A)
+
+- A. ![jawaban 1a](jawaban 1a.jpeg)
+- B. 
+- C
+- D
+- E
+- F
