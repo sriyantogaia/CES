@@ -30,7 +30,7 @@ Deskripsi HIGH | Menggambarkan dirinya sebagai orang yang mampu merasakan dan me
 
 Nama  | Understand
 :-----|:----
-Kode  | UNDR
+Kode  | UNDE
 Alias | 
 Tipe | Simple
 Definisi | Kemampuan dalam menangkap dan memahami respon emosi diri; termasuk pemahaman mengenali hal-hal yang bisa mempengaruhi perubahan emosi yang terjadi, untuk mengantisipasi dinamika perasaan lebih lanjut.
